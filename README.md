@@ -1,34 +1,26 @@
 <!--
 **Car-Toso/Car-Toso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-
 # Data Analyst Portfolio Projects
-![](https://img.shields.io/badge/MySQL-006189?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/SQLite-013B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F5E45F?style=for-the-badge&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/power_query-F5E45F?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![Power Bi](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/TABLEAU-1f447e?style=flat&logo=Tableau&logoColor=white)
+![VSCODE](https://img.shields.io/badge/VSCODE-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+![MS OFFICE](https://img.shields.io/badge/MICROSOFT_OFFICE-D83B01?style=flat&logo=microsoft-office&logoColor=white)
+![EXCEL](https://img.shields.io/badge/MICROSOFT_EXCEL-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![GOOGLE SHEETS](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=flat&logo=google-sheets&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-%23F05032?style=plastic&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/GITHUB-282a2e?style=flat&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
+![PPT](https://img.shields.io/badge/MICROSOFT_POWERPOINT-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
+![WINDOWS TERMINAL](https://img.shields.io/badge/WINDOWS_TERMINAL-4D4D4D?style=flat&logo=gnometerminal&logoColor=white)
 
 
-![](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![PPT](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![MS OFFICE](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![EXCEL](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![GOOGLE SHEETS](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![PREZI](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)
-![GITHUB ACTIONS](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
-![WINDOWS TERMINAL](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
+
+
+
