@@ -1,7 +1,7 @@
 <!--
 **Car-Toso/Car-Toso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-# Data Analytics Portfolio
+# 📊 Data Analytics Portfolio 📊
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=databricks&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
@@ -19,6 +19,18 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 ![PPT](https://img.shields.io/badge/MICROSOFT_POWERPOINT-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 ![WINDOWS TERMINAL](https://img.shields.io/badge/WINDOWS_TERMINAL-4D4D4D?style=flat&logo=gnometerminal&logoColor=white)
+
+## About me
+Mechanical Engineer (since 2013) with experience in product design, industrial equipment development, and FEA simulations. Now applying engineering expertise to data analysis, using SQL, Power BI, and Tableau to solve complex technical problems.
+In the end, every project is about using available data to deliver a solution.
+
+## Projects Overview
+- [Bellabeat]
+- [Electromás – Electronics Retail Sales]
+- [Adventure Works]
+- [Frutifresco]
+- [Olist]
+- [Maven Market]
 
 
 
