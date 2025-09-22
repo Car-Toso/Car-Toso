@@ -38,7 +38,7 @@ You can view my [CV here](link-a-tu-cv) and my [LinkedIn here](https://www.linke
 7. [Maven Market]
 8. [US Food]
 
-### **Project N°1: Bellabeat – Electronics Retail Sales**
+### **Project N°1: Bellabeat**
 ![BigQuery](https://img.shields.io/badge/BIGQUERY-0078D4?style=flat&logo=google-bigquery&logoColor=white)
 ![Tableau](https://img.shields.io/badge/TABLEAU-1f447e?style=flat&logo=Tableau&logoColor=white)
 
