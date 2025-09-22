@@ -45,7 +45,7 @@ You can view my [CV here](link-a-tu-cv) and my [LinkedIn here](https://www.linke
 A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
 
 <img width="400" height="445" alt="image" src="https://github.com/user-attachments/assets/e2eed096-12e9-4ba4-b1f7-35f07433c456" />
-<img width="540" height="445" alt="image" src="https://github.com/user-attachments/assets/57dcba4c-1dfa-4c1c-80a6-7ba42e0c5285" />
+<img width="400" height="445" alt="image" src="https://github.com/user-attachments/assets/57dcba4c-1dfa-4c1c-80a6-7ba42e0c5285" />
 
 
 ### **Project N°2: Adventure Works**
@@ -72,7 +72,7 @@ A summary of this project. Full details and the code will be available in the [p
 
 [Click here to see Final Project Presentation](https://youtu.be/bjtHTrzuTDg) [![YouTube](https://img.shields.io/badge/YouTube-FC0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/bjtHTrzuTDg)
 
-<img width="1367" height="787" alt="ERD-OFFICE1" src="https://github.com/user-attachments/assets/178ec291-e765-48a1-9cf8-19cdfa27ee7d" />
+<img width="500" height="345" alt="ERD-OFFICE1" src="https://github.com/user-attachments/assets/178ec291-e765-48a1-9cf8-19cdfa27ee7d" />
 
 
 ### **Project N°4: Electromás – Electronics Retail Sales**
