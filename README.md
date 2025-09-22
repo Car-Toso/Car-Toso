@@ -72,6 +72,9 @@ A summary of this project. Full details and the code will be available in the [p
 
 [Click here to see Final Project Presentation](https://youtu.be/bjtHTrzuTDg) [![YouTube](https://img.shields.io/badge/YouTube-FC0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/bjtHTrzuTDg)
 
+[![Final Project Presentation](https://img.youtube.com/vi/bjtHTrzuTDg/0.jpg)](https://youtu.be/bjtHTrzuTDg)
+
+
 <img width="500" height="345" alt="ERD-OFFICE1" src="https://github.com/user-attachments/assets/178ec291-e765-48a1-9cf8-19cdfa27ee7d" />
 
 
