@@ -26,7 +26,7 @@
 Mechanical Engineer (since 2013) with experience in product design, industrial equipment development, and FEA simulations. Now applying engineering expertise to data analysis, using SQL, Power BI, and Tableau to solve complex technical problems.
 
 In the end, every project is about using available data to deliver a solution.
-You can view my [CV here](link-a-tu-cv) and my [LinkedIn here](https://www.linkedin.com/in/carlos-ruben-tosoratto-90a428111/).
+You can view my [CV here]([link-a-tu-cv](https://github.com/Car-Toso/Car-Toso/tree/main/CV)) and my [LinkedIn here](https://www.linkedin.com/in/carlos-ruben-tosoratto-90a428111/).
 
 ## **Projects Overview**
 1. [Bellabeat - Capstone Project Google Data Analytics Certificate]
