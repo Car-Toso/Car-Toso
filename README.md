@@ -68,9 +68,9 @@ A summary of this project. Full details and the code will be available in the [p
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
 ![VSCODE](https://img.shields.io/badge/VSCODE-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
+A summary of this project. Full details and the code will be available in the [project repository](https://github.com/Car-Toso/CS50-SQL-Project-Engineering-DB/tree/main).
 
-[Click here to see Final Project Presentation](https://youtu.be/bjtHTrzuTDg) [![YouTube](https://img.shields.io/badge/YouTube-FC0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/bjtHTrzuTDg)
+If you want to see the final project presentation, click this link  [Final Project Presentation](https://youtu.be/bjtHTrzuTDg) [![YouTube](https://img.shields.io/badge/YouTube-FC0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/bjtHTrzuTDg)
 
 [![Final Project Presentation](https://img.youtube.com/vi/bjtHTrzuTDg/0.jpg)](https://youtu.be/bjtHTrzuTDg)
 
