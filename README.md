@@ -39,7 +39,7 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV). an
 8. [US Food](#project-n8-us-food)
 
 
-### **Project N°1: Bellabeat**
+### **Project N°1: Bellabeat - Capstone Project Google**
 ![BigQuery](https://img.shields.io/badge/BIGQUERY-0078D4?style=flat&logo=google-bigquery&logoColor=white)
 ![Tableau](https://img.shields.io/badge/TABLEAU-1f447e?style=flat&logo=Tableau&logoColor=white)
 
@@ -49,7 +49,7 @@ A summary of this project. Full details and the code will be available in the [p
 <img width="400" height="445" alt="image" src="https://github.com/user-attachments/assets/57dcba4c-1dfa-4c1c-80a6-7ba42e0c5285" />
 
 
-### **Project N°2: Adventure Works**
+### **Project N°2: Adventure Works - Sales Dashboard**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
