@@ -38,7 +38,7 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV). an
 7. [Maven Market](#project-n7-maven-market)
 8. [US Food](#project-n8-us-food)
 
-
+***
 ### **Project N°1: Bellabeat - Capstone Project Google**
 ![BigQuery](https://img.shields.io/badge/BIGQUERY-0078D4?style=flat&logo=google-bigquery&logoColor=white)
 ![Tableau](https://img.shields.io/badge/TABLEAU-1f447e?style=flat&logo=Tableau&logoColor=white)
@@ -48,7 +48,7 @@ A summary of this project. Full details and the code will be available in the [p
 <img width="400" height="445" alt="image" src="https://github.com/user-attachments/assets/e2eed096-12e9-4ba4-b1f7-35f07433c456" />
 <img width="400" height="445" alt="image" src="https://github.com/user-attachments/assets/57dcba4c-1dfa-4c1c-80a6-7ba42e0c5285" />
 
-
+***
 ### **Project N°2: Adventure Works - Sales Dashboard**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
@@ -62,7 +62,7 @@ Full details and the code will be available in the [link](https://github.com/Car
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/50d85958-be5b-48a3-8c5a-06c257b03786" />
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/16411a0d-d549-4db1-8f31-63c44014ea38" />
 
-
+***
 ### **Project N°3: Engineering Project Manager DB**
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
@@ -79,7 +79,7 @@ If you want to see the final project presentation, click this link  [Final Proje
 
 <img width="500" height="345" alt="ERD-OFFICE1" src="https://github.com/user-attachments/assets/178ec291-e765-48a1-9cf8-19cdfa27ee7d" />
 
-
+***
 ### **Project N°4: Electromas – Electronics Retail Sales**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -89,7 +89,7 @@ A summary of this project. Full details and the code will be available in the [p
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/f6d102e1-7009-4ef0-ae42-3037befbe3a6" />
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/6da3136a-af9a-45ef-83c6-8b0a3931edf4" />
 
-
+***
 ### **Project N°5: Frutifresco**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
@@ -98,7 +98,7 @@ A summary of this project. Full details and the code will be available in the [p
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/c507023d-59bd-41d6-963b-98330770a609" />
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/62731541-c739-4e90-952c-db25fe3df333" />
 
-
+***
 ### **Project N°6: OList Brasil**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
@@ -113,7 +113,7 @@ A summary of this project. Full details and the code will be available in the [p
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/69f91a4c-6c94-4c04-b16c-f3817445a056" />
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/9ffe3414-f27a-4d47-bdeb-8d6541f36861" />
 
-
+***
 ### **Project N°7: Maven Market**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
@@ -123,6 +123,7 @@ A summary of this project. Full details and the code will be available in the [p
 
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/5aa85d63-f76a-47ec-a3d0-8bcc025597e5" />
 
+***
 ### **Project N°8: US Food**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
@@ -133,4 +134,5 @@ A summary of this project. Full details and the code will be available in the [p
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/9a1139ec-4169-494e-bfde-b012d069b3c7" />
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/a0738df8-a765-49d3-9c8d-27ee64cdc82f" />
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/aa20676c-9384-45bf-b470-a9c3cc3a8d7a" />
+
 
