@@ -124,6 +124,7 @@ A summary of this project. Full details and the code will be available in the [p
 ### **Project N°8: US Food**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
 
 A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
 
