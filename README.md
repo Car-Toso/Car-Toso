@@ -32,7 +32,7 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV). an
 1. [Bellabeat - Capstone Project Google Data Analytics Certificate](#project-n1-bellabeat)
 2. [AdventureWorks - Sales Dashboard](#project-n2-adventure-works)
 3. [Engineering Project Manager DB - Harvard CS50 SQL Final Project](#project-n3-engineering-project-manager-db)
-4. [Electromás - Electronics Retail Sales](#project-n4-electromas-electronics-retail-sales)
+4. [Electromas - Electronics Retail Sales](#project-n4-electromas-electronics-retail-sales)
 5. [Frutifresco](#project-n5-frutifresco)
 6. [Olist Brasil](#project-n6-olist-brasil)
 7. [Maven Market](#project-n7-maven-market)
@@ -80,7 +80,7 @@ If you want to see the final project presentation, click this link  [Final Proje
 <img width="500" height="345" alt="ERD-OFFICE1" src="https://github.com/user-attachments/assets/178ec291-e765-48a1-9cf8-19cdfa27ee7d" />
 
 
-### **Project N°4: Electromás – Electronics Retail Sales**
+### **Project N°4: Electromas – Electronics Retail Sales**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
 
