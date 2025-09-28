@@ -29,14 +29,14 @@ In the end, every project is about using available data to deliver a solution.
 You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV). and my [LinkedIn here](https://www.linkedin.com/in/carlos-ruben-tosoratto-90a428111/).
 
 ## **Projects Showcase**
-1. [Bellabeat - Capstone Project Google Data Analytics Certificate](#)
+1. [Bellabeat - Capstone Project Google Data Analytics Certificate](#project-n1-bellabeat)
 2. [AdventureWorks - Sales Dashboard](#project-n2-adventure-works)
-3. [Engineering Project Manager DB - Harvard CS50 SQL Final Project](#)
-4. [Electromás - Electronics Retail Sales](#)
-5. [Frutifresco](#)
-6. [Olist Brasil](#)
-7. [Maven Market](#)
-8. [US Food](#)
+3. [Engineering Project Manager DB - Harvard CS50 SQL Final Project](#project-n3-engineering-project-manager-db)
+4. [Electromás - Electronics Retail Sales](#project-n4-electromás-electronics-retail-sales)
+5. [Frutifresco](#project-n5-frutifresco)
+6. [Olist Brasil](#project-n6-olist-brasil)
+7. [Maven Market](#project-n7-maven-market)
+8. [US Food](#project-n8)
 
 
 ### **Project N°1: Bellabeat**
