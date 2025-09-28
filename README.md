@@ -53,8 +53,8 @@ A summary of this project. Full details and the code will be available in the [p
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
 
-Interactive Power BI dashboard analyzing Adventure Works sales, products, and customers, developed using advanced DAX and Power Query techniques.
-Full details and the code will be available in the [project repository](link-al-repo) soon.
+Interactive Power BI dashboard analyzing Adventure Works sales, products and customers, developed using advanced DAX and Power Query techniques.
+Full details and the code will be available in the [link](https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard).
 
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/c5d3792d-06cb-4c2a-9bd0-c0c5184f9839" />
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/721d60ff-0b15-4b5e-9ac7-bce92c1c28af" />
