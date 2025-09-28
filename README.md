@@ -28,15 +28,16 @@ Mechanical Engineer (since 2013) with experience in product design, industrial e
 In the end, every project is about using available data to deliver a solution.
 You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV). and my [LinkedIn here](https://www.linkedin.com/in/carlos-ruben-tosoratto-90a428111/).
 
-## **Projects Overview**
-1. [Bellabeat - Capstone Project Google Data Analytics Certificate]
-2. [Adventure Works]
-3. [Engineering Project Manager DB - Harvard CS50 SQL Final Project]
-4. [Electromás - Electronics Retail Sales]
-5. [Frutifresco]
-6. [Olist Brasil]
-7. [Maven Market]
-8. [US Food]
+## **Projects Showcase**
+1. [Bellabeat - Capstone Project Google Data Analytics Certificate](#)
+2. [AdventureWorks - Sales Dashboard](#project-n2-adventure-works)
+3. [Engineering Project Manager DB - Harvard CS50 SQL Final Project](#)
+4. [Electromás - Electronics Retail Sales](#)
+5. [Frutifresco](#)
+6. [Olist Brasil](#)
+7. [Maven Market](#)
+8. [US Food](#)
+
 
 ### **Project N°1: Bellabeat**
 ![BigQuery](https://img.shields.io/badge/BIGQUERY-0078D4?style=flat&logo=google-bigquery&logoColor=white)
