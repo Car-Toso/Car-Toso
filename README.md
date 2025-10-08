@@ -43,7 +43,39 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV). an
 ![BigQuery](https://img.shields.io/badge/BIGQUERY-0078D4?style=flat&logo=google-bigquery&logoColor=white)
 ![Tableau](https://img.shields.io/badge/TABLEAU-1f447e?style=flat&logo=Tableau&logoColor=white)
 
-A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
+This is a summary of this project. Full details and the code will be available in the [project repository](link-al-repo).
+
+# Bellabeat – Google Data Analytics Capstone
+
+**Overview**  
+This project analyzes user activity and sleep patterns from Bellabeat smart devices, aiming to uncover actionable insights for wellness improvement. The analysis was performed using **BigQuery** and **Tableau**, following a structured end-to-end process.
+
+---
+
+**Summary**  
+- **Data import & preparation:** Loaded *daily activity*, *sleep day*, and *weight log info* datasets; handled blank cells and formatted columns.  
+- **Data cleaning & transformation:** Created views to organize data, remove duplicates, and round numeric values.  
+- **Data integration:** Merged activity and sleep datasets for a comprehensive view.  
+- **Feature creation & analysis:**  
+  - Categorized activity levels by active minutes.  
+  - Calculated average steps per user, identifying those exceeding 7,500 daily steps.  
+  - Measured sedentary time and sleep duration, highlighting areas for improvement.  
+  - Analyzed device usage across participants.  
+
+---
+
+**Visualizations & Insights**  
+- **Activity category vs % of total steps** – bar chart.  
+- **Weekday vs average steps & sleep minutes** – bar chart.  
+- **App usage by user** – donut chart.  
+- **Average steps by weekday** – bar chart.  
+
+**Key findings:**  
+- Most participants show **low sleep averages** and **high sedentary time**.  
+- Users exceeding 7,500 daily steps demonstrated healthier activity trends.  
+- Insights suggest opportunities for **personalized wellness recommendations** and engagement strategies.
+
+
 
 <img width="400" height="445" alt="image" src="https://github.com/user-attachments/assets/e2eed096-12e9-4ba4-b1f7-35f07433c456" />
 <img width="400" height="445" alt="image" src="https://github.com/user-attachments/assets/57dcba4c-1dfa-4c1c-80a6-7ba42e0c5285" />
