@@ -1,4 +1,4 @@
-<!-- FALTA HACER LA DOCUMENTACION DE CADA PROYECTO EN UN REPO
+<!-- 
 **Car-Toso/Car-Toso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 # 📊 **Data Analytics Portfolio** 📊
@@ -29,7 +29,7 @@ In the end, every project is about using available data to deliver a solution.
 You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV). and my [LinkedIn here](https://www.linkedin.com/in/carlos-ruben-tosoratto-90a428111/).
 
 ## **Projects Showcase**
-1. [Project N°1: Bellabeat - Google Data Analytics Capstone](#project-n1-bellabeat---google-data-analytics-capstone)
+1. [Bellabeat - Google Data Analytics Capstone](#project-n1-bellabeat---google-data-analytics-capstone)
 2. [AdventureWorks - Sales Dashboard](#project-n2-adventure-works---sales-dashboard)
 3. [Engineering Project Manager DB - Harvard CS50 SQL Final Project](#project-n3-engineering-project-manager-db)
 4. [Electromas - Electronics Retail Sales](#project-n4-electromas--electronics-retail-sales)
