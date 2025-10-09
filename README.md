@@ -46,7 +46,7 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 ![BigQuery](https://img.shields.io/badge/BIGQUERY-0078D4?style=flat&logo=google-bigquery&logoColor=white)
 ![Tableau](https://img.shields.io/badge/TABLEAU-1f447e?style=flat&logo=Tableau&logoColor=white)
 
-This is a summary of this project. Full details and the code will be available in the [project repository](link-al-repo).
+This is a summary of this project. Full details and the code will be available in the [project repository](https://github.com/Car-Toso/Bellabeat---Google-Capstone).
 
 **Overview**  
 This project analyzes user activity and sleep patterns from Bellabeat smart devices, aiming to uncover actionable insights for wellness improvement. The analysis was performed using **BigQuery** and **Tableau**, following a structured end-to-end process.
