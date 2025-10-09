@@ -25,10 +25,8 @@
 ## **About me** 
 
 Mechanical Engineer with over 10 years of experience in product design, industrial equipment development, and FEA simulations.
-
-I apply my engineering background to data analysis using SQL, Power BI, and Tableau — turning complex technical data into actionable insights and process improvements.
-In the end, every project is about using data to design better solutions.
-
+I bring the same analytical mindset to data analysis, using SQL, Power BI, and Tableau to drive technical and operational decisions.
+Every project, in essence, is about turning data into better engineering solutions.
 You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and my [LinkedIn here](https://www.linkedin.com/in/carlos-ruben-tosoratto-90a428111/).
 
 ## **Projects Showcase**
