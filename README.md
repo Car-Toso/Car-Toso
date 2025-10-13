@@ -46,38 +46,72 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 
 This is a summary of this project. Full details and the code will be available in the [project repository](https://github.com/Car-Toso/Bellabeat---Google-Capstone).
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Car-Toso/Bellabeat---Google-Capstone/main/Assets/BellabeatDashboard-gif.gif" width="700" alt="Bellabeat Dashboard">
+</p>
+
 **Overview**  
-This project analyzes user activity and sleep patterns from Bellabeat smart devices, aiming to uncover actionable insights for wellness improvement. The analysis was performed using **BigQuery** and **Tableau**, following a structured end-to-end process.
+This project analyzes user activity and sleep patterns from Bellabeat smart devices, aiming to extract actionable insights for wellness improvement. The analysis was performed using **BigQuery** and **Tableau**, following a structured end-to-end process.
 
 ---
+**Data & Preparation**
+* Imported daily activity, sleep day, and weight log info datasets.
+* Handled blank cells, formatted columns, and ensured consistency.
+* Created views to organize data, remove duplicates, and round numeric values.
+* Merged activity and sleep datasets for a comprehensive analysis.
 
-**Summary**  
-- **Data import & preparation:** Loaded *daily activity*, *sleep day*, and *weight log info* datasets; handled blank cells and formatted columns.  
-- **Data cleaning & transformation:** Created views to organize data, remove duplicates, and round numeric values.  
-- **Data integration:** Merged activity and sleep datasets for a comprehensive view.  
-- **Feature creation & analysis:**  
-  - Categorized activity levels by active minutes.  
-  - Calculated average steps per user, identifying those exceeding 7,500 daily steps.  
-  - Measured sedentary time and sleep duration, highlighting areas for improvement.  
-  - Analyzed device usage across participants.  
+**Feature Creation & Analysis**
+* Categorized activity levels based on active minutes.
+* Calculated average steps per user, identifying those exceeding 8000 and 10000 daily steps.
+* Measured sedentary time and sleep duration to identify areas for improvement.
+* Analyzed device usage patterns across participants.
 
+**Visualizations & Insights**
+
+* **Activity Category – Vertical bar chart:** Show the distribution of users according to their daily activity level, highlighting the proportion of sedentary versus highly active users.
+* **App Usage – Donut Chart:** Visualize what percentage of users use the app frequently, moderately, or rarely, emphasizing the most engaged users.
+* **Average Total Steps & Average Total Minutes of Sleep – Grouped Bar Chart by Day of the Week:** Analyze how physical activity and sleep duration vary by day of the week, identifying weekly patterns among users.
+* **Average Total Steps vs. Time in Bed – Combined Bar & Line Chart:** Compare daily physical activity and sleep duration simultaneously, allowing observation of trends and potential correlations between steps and time in bed.
+* **Average Total Steps per User – Bar Chart:** This analysis shows each user’s average daily step count, highlighting differences in activity levels and identifying highly active or less active individuals, as well as patterns and outliers.
+* **Lightly, Fairly, and Very Active Minutes vs. Weekday – Grouped Bar Chart:** This analysis compares different activity intensities throughout the week, showing how users distribute their active minutes across days, highlighting trends in activity intensity and identifying days with higher or lower engagement in physical activity.
+
+**Key findings**
+
+1. Activity Level vs % of Total Steps 🏃‍♂️
+    * **32% of activity records** are classified as sedentary, indicating that a significant portion of logged activity is low-intensity.
+2. High User Proportion (Donut Chart) 📊
+    * **93.51% of users** are classified as high users, suggesting that most users are consistently engaging with the tracker.
+3. Average Total Steps & Average Sleep Minutes vs Weekday ⏱️💤
+    * Only **2 days exceed the minimum 8,000 steps suggested** by research for health benefits.
+    * **None reach the recently popular 10,000-step goal**.
+    * **Average sleep duration is below 480 minutes (8 hours) every day**, highlighting a consistent shortfall in recommended sleep.
+4. Relationship Between Activity and Sleep 💤🏃‍♀️
+    * Days with higher average step counts tend to be followed by longer total time in bed, indicating a **positive relationship between physical activity and rest**.
+    * This pattern suggests that users may **compensate increased activity with extended recovery periods**, offering opportunities for **personalized wellness recommendations** that balance daily movement and sleep quality.
+5. Average Steps per User 👣
+    * Out of 33 users, **7 exceed 10,000 steps** and **14 exceed 8,000 steps**, showing that **less than half of users reach the level suggested by research for health benefits**.
+    * This highlights that while some users are highly active, **most are below the recommended daily activity thresholds**, indicating potential opportunities for engagement or personalized activity goals.
+6. Lightly Active Minutes by Weekday 🌞
+    * **Fridays and Saturdays show higher lightly active minutes**, suggesting that users tend to be more active during the end of the workweek. This can be seen as a **positive indicator of weekend engagement in physical activity**, which could be leveraged for **targeted wellness tips or reminders** to maintain consistent activity throughout the week.
+
+**Recommendations Based on Key Findings**
+
+1. Increase Data Sample Size 📊
+    * The current dataset includes only 33 users, which limits the ability to generalize insights.
+    * Collecting data from more users over longer periods would improve the reliability of conclusions and allow detection of more nuanced patterns.
+2. Encourage Daily Activity 🚶‍♂️🏃‍♀️
+    * Since 32% of activity records are sedentary and less than half of users meet the 8,000 step thresholds, consider strategies to motivate users to increase daily steps, such as personalized reminders, challenges, or gamification.
+3. Promote Consistent Sleep 😴🛌
+    * Average sleep is below 8 hours every day. Recommendations could include tips for better sleep routines or integrating sleep reminders based on activity levels.
+4. Leverage Positive Activity Patterns 🎉📈
+    * Users are more lightly active on Fridays and Saturdays and tend to sleep more after highly active days.
+    * Wellness programs could encourage weekend activities and personalized guidance on balancing activity and rest throughout the week.
+5. Personalized Engagement Opportunities 🧩💡
+    * Given that some users are highly active while others are not, segmenting users based on activity levels could help provide tailored recommendations for both activity and recovery.
 ---
 
-**Visualizations & Insights**  
-- **Activity category vs % of total steps** – bar chart.  
-- **Weekday vs average steps & sleep minutes** – bar chart.  
-- **App usage by user** – donut chart.  
-- **Average steps by weekday** – bar chart.  
-
-**Key findings:**  
-- Most participants show **low sleep averages** and **high sedentary time**.  
-- Users exceeding 7,500 daily steps demonstrated healthier activity trends.  
-- Insights suggest opportunities for **personalized wellness recommendations** and engagement strategies.
-
-
-
-<img width="400" height="445" alt="image" src="https://github.com/user-attachments/assets/e2eed096-12e9-4ba4-b1f7-35f07433c456" />
-<img width="400" height="445" alt="image" src="https://github.com/user-attachments/assets/57dcba4c-1dfa-4c1c-80a6-7ba42e0c5285" />
+<img src="https://github.com/user-attachments/assets/e2eed096-12e9-4ba4-b1f7-35f07433c456" width="400" alt="imagen 1">
+<img src="https://github.com/user-attachments/assets/57dcba4c-1dfa-4c1c-80a6-7ba42e0c5285" width="400" alt="imagen 2">
 
 ***
 ### **Project N°2: Adventure Works - Sales Dashboard**
