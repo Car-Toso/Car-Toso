@@ -115,10 +115,10 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
 Interactive Power BI dashboard analyzing Adventure Works sales, products and customers, developed using advanced DAX and Power Query techniques.
 Full details and the code will be available in the [link](https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard).
 
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/c5d3792d-06cb-4c2a-9bd0-c0c5184f9839" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/721d60ff-0b15-4b5e-9ac7-bce92c1c28af" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/50d85958-be5b-48a3-8c5a-06c257b03786" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/16411a0d-d549-4db1-8f31-63c44014ea38" />
+<img src="https://github.com/user-attachments/assets/c5d3792d-06cb-4c2a-9bd0-c0c5184f9839" width="400" alt="imagen 1">
+<img src="https://github.com/user-attachments/assets/721d60ff-0b15-4b5e-9ac7-bce92c1c28af" width="400" alt="imagen 1">
+<img src="https://github.com/user-attachments/assets/50d85958-be5b-48a3-8c5a-06c257b03786" width="400" alt="imagen 1">
+<img src="https://github.com/user-attachments/assets/16411a0d-d549-4db1-8f31-63c44014ea38" width="400" alt="imagen 1">
 
 ***
 ### **Project N°3: Engineering Project Manager DB**
@@ -132,10 +132,60 @@ A summary of this project. Full details and the code will be available in the [p
 
 If you want to see the final project presentation, click this link  [Final Project Presentation](https://youtu.be/bjtHTrzuTDg) [![YouTube](https://img.shields.io/badge/YouTube-FC0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/bjtHTrzuTDg)
 
-[![Final Project Presentation](https://img.youtube.com/vi/bjtHTrzuTDg/0.jpg)](https://youtu.be/bjtHTrzuTDg)
+<p align="center">
+  <a href="https://youtu.be/bjtHTrzuTDg">
+    <img src="https://img.youtube.com/vi/bjtHTrzuTDg/0.jpg" alt="Final Project Presentation">
+  </a>
+</p>
 
+**Overview**  
+Designed and implemented a relational database system for an engineering consultancy firm to manage staff, clients, projects, budgets, and equipment assignments. The system enables efficient data organization and supports analytical queries for future integration with Power BI dashboards.
 
-<img width="500" height="345" alt="ERD-OFFICE1" src="https://github.com/user-attachments/assets/178ec291-e765-48a1-9cf8-19cdfa27ee7d" />
+**Scope**
+
+- Modeled key entities: Staff, Clients, Contacts, Projects, Budgets, Equipments, and their relationships.
+- Implemented soft delete for staff records to preserve data integrity.
+- Supported full CRUD operations and structured queries for management insights.
+
+**Key Features**
+
+- Manage clients, budgets, and projects with status tracking (pending, accepted, rejected).
+
+- Assign staff and equipment to projects through many-to-many relationships.
+
+- Create SQL views for summarized reporting (e.g., project overviews, workload analysis).
+
+- Added indexes on frequently joined columns for better performance.
+
+**Database Design**
+
+- Proper use of primary and foreign keys, ensuring referential integrity.
+
+- Logical use of data types (INTEGER, TEXT, DATE, BOOLEAN).
+
+- Included triggers to prevent hard deletes and maintain consistent data states.
+
+- Optimized schema to simplify Power BI integration for visualization.
+
+**Highlights**
+
+- Fully functional schema built from scratch using SQLite.
+
+- Demonstrates database normalization and practical application of SQL concepts from the CS50 SQL course.
+
+- Serves as a foundation for data analytics and project management solutions in engineering environments.
+
+**Future Improvements**
+
+- Add task-level management and scheduling.
+
+- Include equipment maintenance and cost tracking.
+
+- Implement user access control and advanced reporting layers.
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/178ec291-e765-48a1-9cf8-19cdfa27ee7d" width="700" alt="ERD">
+</p>
 
 ***
 ### **Project N°4: Electromas – Electronics Retail Sales**
