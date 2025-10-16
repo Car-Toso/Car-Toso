@@ -22,18 +22,18 @@
 ![PPT](https://img.shields.io/badge/MICROSOFT_POWERPOINT-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 ![WINDOWS TERMINAL](https://img.shields.io/badge/WINDOWS_TERMINAL-4D4D4D?style=flat&logo=gnometerminal&logoColor=white)
 
-## **🧠About me** 
+## **About me** 🧠
 
 Mechanical Engineer with over 10 years of experience in product design, industrial equipment development, and FEA simulations.
 I bring the same analytical mindset to data analysis, using SQL, Power BI, and Tableau to drive technical and operational decisions.
 Every project, in essence, is about turning data into better engineering solutions.
 You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and my [LinkedIn here](https://www.linkedin.com/in/carlos-ruben-tosoratto-90a428111/).
 
-## **🚀Projects Showcase**
-1. [Bellabeat - Google Data Analytics Capstone](#️-project-n1-bellabeat---google-data-analytics-capstone)
-2. [AdventureWorks - Sales Dashboard](#️-project-n2-adventure-works---sales-dashboard)
-3. [Engineering Project Manager DB - Harvard CS50 SQL Final Project](#-project-n3-engineering-project-manager-db)
-4. [Electromas - Electronics Retail Sales](#project-n4-electromas--electronics-retail-sales)
+## **Projects Showcase**🚀
+1. [Bellabeat - Google Data Analytics Capstone](#project-n1-bellabeat-google-data-analytics-capstone)
+2. [AdventureWorks - Sales Dashboard](#project-n2-adventure-works-sales-dashboard)
+3. [Engineering Project Manager DB - Harvard CS50 SQL Final Project](#project-n3-engineering-project-manager-db)
+4. [Electromas - Electronics Retail Sales](#project-n4-electromaselectronics-retail-sales)
 5. [Frutifresco](#project-n5-frutifresco)
 6. [Olist Brasil](#project-n6-olist-brasil)
 7. [Maven Market](#project-n7-maven-market)
@@ -45,7 +45,7 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
   <img src="https://raw.githubusercontent.com/Car-Toso/Bellabeat---Google-Capstone/main/Assets/Bellabeat%20color.jpg" width="150" alt="Bellabeat Dashboard">
 </p>
 
-### **🏃‍♀️💪⌚ Project N°1: Bellabeat - Google Data Analytics Capstone**
+### **Project N°1: Bellabeat-Google Data Analytics Capstone**
 ![BigQuery](https://img.shields.io/badge/BIGQUERY-0078D4?style=flat&logo=google-bigquery&logoColor=white)
 ![Tableau](https://img.shields.io/badge/TABLEAU-1f447e?style=flat&logo=Tableau&logoColor=white)
 
@@ -55,26 +55,26 @@ This is a summary of this project. Full details and the code will be available i
   <img src="https://raw.githubusercontent.com/Car-Toso/Bellabeat---Google-Capstone/main/Assets/BellabeatDashboard-gif.gif" width="700" alt="Bellabeat Dashboard">
 </p>
 
-#### **📘Overview**
+#### **Overview**📘
 
 This project analyzes user activity and sleep patterns from Bellabeat smart devices, aiming to extract actionable insights for wellness improvement. The analysis was performed using **BigQuery** and **Tableau**, following a structured end-to-end process.
 
 ***
-#### **📂Data & Preparation**
+#### **Data & Preparation**📂
 - Imported daily activity, sleep day, and weight log info datasets.
 - Handled blank cells, formatted columns, and ensured consistency.
 - Created views to organize data, remove duplicates, and round numeric values.
 - Merged activity and sleep datasets for a comprehensive analysis.
 
 ***
-#### **⚙️Feature Creation & Analysis**
+#### **Feature Creation & Analysis**⚙️
 - Categorized activity levels based on active minutes.
 - Calculated average steps per user, identifying those exceeding 8000 and 10000 daily steps.
 - Measured sedentary time and sleep duration to identify areas for improvement.
 - Analyzed device usage patterns across participants.
 
 ***
-#### **📈Visualizations & Key insights**
+#### **Visualizations & Key insights**📈
 
 1. **Activity Category – Vertical bar chart:** 
     - **32% of activity records** are classified as sedentary, indicating that a significant portion of logged activity is low-intensity.
@@ -94,19 +94,19 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
     - **Fridays and Saturdays show higher lightly active minutes**, suggesting that users tend to be more active during the end of the workweek. This can be seen as a **positive indicator of weekend engagement in physical activity**, which could be leveraged for **targeted wellness tips or reminders** to maintain consistent activity throughout the week.
 
 ***
-#### **💡Recommendations Based on Key Findings**
+#### **Recommendations Based on Key Findings**💡
 
-1. **Increase Data Sample Size 📊**
+1. **Increase Data Sample Size**📊
     - The current dataset includes only 33 users, which limits the ability to generalize insights.
     - Collecting data from more users over longer periods would improve the reliability of conclusions and allow detection of more nuanced patterns.
-2. **Encourage Daily Activity 🚶‍♂️🏃‍♀️**
+2. **Encourage Daily Activity** 🚶‍♂️🏃‍♀️
     - Since 32% of activity records are sedentary and less than half of users meet the 8,000 step thresholds, consider strategies to motivate users to increase daily steps, such as personalized reminders, challenges, or gamification.
-3. **Promote Consistent Sleep 😴🛌**
+3. **Promote Consistent Sleep** 😴🛌
     - Average sleep is below 8 hours every day. Recommendations could include tips for better sleep routines or integrating sleep reminders based on activity levels.
-4. **Leverage Positive Activity Patterns 🎉📈**
+4. **Leverage Positive Activity Patterns** 🎉📈
     - Users are more lightly active on Fridays and Saturdays and tend to sleep more after highly active days.
     - Wellness programs could encourage weekend activities and personalized guidance on balancing activity and rest throughout the week.
-5. **Personalized Engagement Opportunities 🧩💡**
+5. **Personalized Engagement Opportunities** 🧩💡
     - Given that some users are highly active while others are not, segmenting users based on activity levels could help provide tailored recommendations for both activity and recovery.
      
 ***
@@ -120,7 +120,7 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
   <img src="https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard/raw/main/Assets/AdventureWorks_Logo.png" width="200" alt="AdventureWorks Logo">
 </p>
 
-### **🚴‍♂️💨 Project N°2: Adventure Works - Sales Dashboard**
+### **Project N°2: Adventure Works-Sales Dashboard**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
@@ -128,20 +128,20 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
 Interactive Power BI dashboard analyzing Adventure Works sales, products and customers, developed using advanced DAX and Power Query techniques.
 Full details and the code will be available in the [project repository](https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard).
 
-#### **📘Overview** 
+#### **Overview**📘
 
 This project presents a sales performance analysis for **Adventure Works**, developed during the *Power BI Desktop for Business Intelligence* course by Maven Academy.
 
 The raw data was cleaned and organized using **Power Query**, a data model was built, and key measures were calculated with **DAX**. The end-to-end dashboard enables business users to explore insights, track performance, and make data-driven decisions.
 
-#### **📂Data & Preparation**
+#### **Data & Preparation**📂
 
 https://www.kaggle.com/datasets/ukveteran/adventure-works
 
-#### **⚙️Feature Creation & Analysis**
+#### **Feature Creation & Analysis**⚙️
 
 
-#### **💡Recommendations Based on Key Findings**
+#### **Recommendations Based on Key Findings**💡
 
 
 
@@ -152,7 +152,7 @@ https://www.kaggle.com/datasets/ukveteran/adventure-works
 
 ***
 ***
-### **📂💻🛠 Project N°3: Engineering Project Manager DB**
+### **Project N°3: Engineering Project Manager DB**
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
@@ -169,16 +169,16 @@ If you want to see the final project presentation, click this link  [Final Proje
   </a>
 </p>
 
-**📘Overview**  
+**Overview**📘
 Designed and implemented a relational database system for an engineering consultancy firm to manage staff, clients, projects, budgets, and equipment assignments. The system enables efficient data organization and supports analytical queries for future integration with Power BI dashboards.
 
-**🎯Scope**
+**Scope**🎯
 
 - Modeled key entities: Staff, Clients, Contacts, Projects, Budgets, Equipments, and their relationships.
 - Implemented soft delete for staff records to preserve data integrity.
 - Supported full CRUD operations and structured queries for management insights.
 
-**⚙️Key Features**
+**Key Features**⚙️
 
 - Manage clients, budgets, and projects with status tracking (pending, accepted, rejected).
 
@@ -188,7 +188,7 @@ Designed and implemented a relational database system for an engineering consult
 
 - Added indexes on frequently joined columns for better performance.
 
-**📂Database Design & Preparation**
+**Database Design & Preparation**📂
 
 - Proper use of primary and foreign keys, ensuring referential integrity.
 
@@ -198,7 +198,7 @@ Designed and implemented a relational database system for an engineering consult
 
 - Optimized schema to simplify Power BI integration for visualization.
 
-**⭐Highlights**
+**Highlights**⭐
 
 - Fully functional schema built from scratch using SQLite.
 
@@ -206,7 +206,7 @@ Designed and implemented a relational database system for an engineering consult
 
 - Serves as a foundation for data analytics and project management solutions in engineering environments.
 
-**🚀Future Improvements**
+**Future Improvements**🚀
 
 - Add task-level management and scheduling.
 
@@ -219,7 +219,7 @@ Designed and implemented a relational database system for an engineering consult
 </p>
 
 ***
-### **Project N°4: Electromas – Electronics Retail Sales**
+### **Project N°4: Electromas–Electronics Retail Sales**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
 
