@@ -117,8 +117,7 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
 ***
 ***
 <p align="center">
-  <img src="https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard/raw/main/Assets/AdventureWorks_Logo.png
-  " width="200" alt="AdventureWorks Logo">
+  <img src="https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard/raw/main/Assets/AdventureWorks_Logo.png" width="200" alt="AdventureWorks Logo">
 </p>
 
 ### **🚴‍♂️💨 Project N°2: Adventure Works - Sales Dashboard**
