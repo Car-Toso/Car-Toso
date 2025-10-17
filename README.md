@@ -22,7 +22,7 @@
 ![PPT](https://img.shields.io/badge/MICROSOFT_POWERPOINT-B7472A?style=flat&logo=microsoft-powerpoint&logoColor=white)
 ![WINDOWS TERMINAL](https://img.shields.io/badge/WINDOWS_TERMINAL-4D4D4D?style=flat&logo=gnometerminal&logoColor=white)
 
-## **About me** 🧠
+## **About me**🧠
 
 Mechanical Engineer with over 10 years of experience in product design, industrial equipment development, and FEA simulations.
 I bring the same analytical mindset to data analysis, using SQL, Power BI, and Tableau to drive technical and operational decisions.
@@ -33,11 +33,9 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 1. [Bellabeat - Google Data Analytics Capstone](#project-n1-bellabeat-google-data-analytics-capstone)
 2. [AdventureWorks - Sales Dashboard](#project-n2-adventure-works-sales-dashboard)
 3. [Engineering Project Manager DB - Harvard CS50 SQL Final Project](#project-n3-engineering-project-manager-db)
-4. [Electromas - Electronics Retail Sales](#project-n4-electromaselectronics-retail-sales)
-5. [Frutifresco](#project-n5-frutifresco)
-6. [Olist Brasil](#project-n6-olist-brasil)
-7. [Maven Market](#project-n7-maven-market)
-8. [US Food](#project-n8-us-food)
+4. [Olist Brasil](#project-n4-olist-brasil)
+5. [Electromas - Electronics Retail Sales](#project-n5-electromaselectronics-retail-sales)
+6. [Maven Market](#project-n6-maven-market)
 
 ***
 ***
@@ -110,9 +108,17 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
     - Given that some users are highly active while others are not, segmenting users based on activity levels could help provide tailored recommendations for both activity and recovery.
      
 ***
-<img src="https://github.com/user-attachments/assets/e2eed096-12e9-4ba4-b1f7-35f07433c456" width="400" alt="imagen 1">
+<div style="text-align:center;">
+  <img src="https://github.com/user-attachments/assets/e2eed096-12e9-4ba4-b1f7-35f07433c456" 
+       width="400" 
+       alt="imagen 1" 
+       style="display:block; margin: 0 auto 20px auto;">
+  <img src="https://github.com/user-attachments/assets/57dcba4c-1dfa-4c1c-80a6-7ba42e0c5285" 
+       width="400" 
+       alt="imagen 2" 
+       style="display:block; margin: 0 auto 0 auto;">
+</div>
 
-<img src="https://github.com/user-attachments/assets/57dcba4c-1dfa-4c1c-80a6-7ba42e0c5285" width="400" alt="imagen 2">
 
 ***
 ***
@@ -144,7 +150,6 @@ https://www.kaggle.com/datasets/ukveteran/adventure-works
 #### **Recommendations Based on Key Findings**💡
 
 
-
 <img src="https://github.com/user-attachments/assets/c5d3792d-06cb-4c2a-9bd0-c0c5184f9839" width="400" alt="imagen 1">
 <img src="https://github.com/user-attachments/assets/721d60ff-0b15-4b5e-9ac7-bce92c1c28af" width="400" alt="imagen 1">
 <img src="https://github.com/user-attachments/assets/50d85958-be5b-48a3-8c5a-06c257b03786" width="400" alt="imagen 1">
@@ -170,6 +175,7 @@ If you want to see the final project presentation, click this link  [Final Proje
 </p>
 
 **Overview**📘
+
 Designed and implemented a relational database system for an engineering consultancy firm to manage staff, clients, projects, budgets, and equipment assignments. The system enables efficient data organization and supports analytical queries for future integration with Power BI dashboards.
 
 **Scope**🎯
@@ -219,26 +225,7 @@ Designed and implemented a relational database system for an engineering consult
 </p>
 
 ***
-### **Project N°4: Electromas–Electronics Retail Sales**
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
-
-A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/3824c265-8b79-40ea-b196-9143fc55790f" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/f6d102e1-7009-4ef0-ae42-3037befbe3a6" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/6da3136a-af9a-45ef-83c6-8b0a3931edf4" />
-
-***
-### **Project N°5: Frutifresco**
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
-
-A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/c507023d-59bd-41d6-963b-98330770a609" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/62731541-c739-4e90-952c-db25fe3df333" />
-
-***
-### **Project N°6: OList Brasil**
+### **Project N°4: OList Brasil**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
@@ -253,7 +240,17 @@ A summary of this project. Full details and the code will be available in the [p
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/9ffe3414-f27a-4d47-bdeb-8d6541f36861" />
 
 ***
-### **Project N°7: Maven Market**
+### **Project N°5: Electromas–Electronics Retail Sales**
+![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
+![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
+
+A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
+<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/3824c265-8b79-40ea-b196-9143fc55790f" />
+<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/f6d102e1-7009-4ef0-ae42-3037befbe3a6" />
+<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/6da3136a-af9a-45ef-83c6-8b0a3931edf4" />
+
+***
+### **Project N°6: Maven Market**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
@@ -262,16 +259,5 @@ A summary of this project. Full details and the code will be available in the [p
 
 <img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/5aa85d63-f76a-47ec-a3d0-8bcc025597e5" />
 
-***
-### **Project N°8: US Food**
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
-
-A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
-
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/9a1139ec-4169-494e-bfde-b012d069b3c7" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/a0738df8-a765-49d3-9c8d-27ee64cdc82f" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/aa20676c-9384-45bf-b470-a9c3cc3a8d7a" />
 
 
