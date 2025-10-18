@@ -53,26 +53,33 @@ This is a summary of this project. Full details and the code will be available i
   <img src="https://raw.githubusercontent.com/Car-Toso/Bellabeat---Google-Capstone/main/Assets/BellabeatDashboard-gif.gif" width="700" alt="Bellabeat Dashboard">
 </p>
 
-#### **Overview**📘
+#### Index Bellabeat
+1. [**Overview**📘](#overview)
+2. [**Data & Preparation**📂](#2-data--preparation)
+3. [**Feature Creation & Analysis**⚙️](#3-feature-creation--analysis)
+4. [**Visualizations & Key insights**📈](#4-visualizations--key-insights)
+5. [**Recommendations Based on Key Findings**💡](#5-recommendations-based-on-key-findings)
+
+#### **1. Overview**📘
 
 This project analyzes user activity and sleep patterns from Bellabeat smart devices, aiming to extract actionable insights for wellness improvement. The analysis was performed using **BigQuery** and **Tableau**, following a structured end-to-end process.
 
 ***
-#### **Data & Preparation**📂
+#### **2. Data & Preparation**📂
 - Imported daily activity, sleep day, and weight log info datasets.
 - Handled blank cells, formatted columns, and ensured consistency.
 - Created views to organize data, remove duplicates, and round numeric values.
 - Merged activity and sleep datasets for a comprehensive analysis.
 
 ***
-#### **Feature Creation & Analysis**⚙️
+#### **3. Feature Creation & Analysis**⚙️
 - Categorized activity levels based on active minutes.
 - Calculated average steps per user, identifying those exceeding 8000 and 10000 daily steps.
 - Measured sedentary time and sleep duration to identify areas for improvement.
 - Analyzed device usage patterns across participants.
 
 ***
-#### **Visualizations & Key insights**📈
+#### **4. Visualizations & Key insights**📈
 
 1. **Activity Category – Vertical bar chart:** 
     - **32% of activity records** are classified as sedentary, indicating that a significant portion of logged activity is low-intensity.
@@ -92,7 +99,7 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
     - **Fridays and Saturdays show higher lightly active minutes**, suggesting that users tend to be more active during the end of the workweek. This can be seen as a **positive indicator of weekend engagement in physical activity**, which could be leveraged for **targeted wellness tips or reminders** to maintain consistent activity throughout the week.
 
 ***
-#### **Recommendations Based on Key Findings**💡
+#### **5. Recommendations Based on Key Findings**💡
 
 1. **Increase Data Sample Size**📊
     - The current dataset includes only 33 users, which limits the ability to generalize insights.
@@ -123,7 +130,7 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
 ***
 ***
 <p align="center">
-  <img src="https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard/raw/main/Assets/AdventureWorks_Logo.png" width="200" alt="AdventureWorks Logo">
+  <img src="https://raw.githubusercontent.com/Car-Toso/Adventure-Works-Sales-Dashboard/main/Assets/AdventureWorks_Logo.png" width="200" alt="AdventureWorks Logo">
 </p>
 
 ### **Project N°2: Adventure Works-Sales Dashboard**
@@ -141,27 +148,77 @@ Full details and the code will be available in the [project repository](https://
        width="700">
 </p>
 
+#### Index Adventure Works
+1. [**Overview**📘](#overview)
+2. [**Data & Preparation**📂](#2-data--preparation)
+3. [**Feature Creation & Analysis**⚙️](#3-feature-creation--analysis)
+4. [**Visualizations & Key insights**📈](#4-visualizations--key-insights)
+5. [**Recommendations Based on Key Findings**💡](#5-recommendations-based-on-key-findings)
 
-#### **Overview**📘
+#### **1. Overview**📘
 
+This project focuses on the fictional company AdventureWorks (a global cycling equipment manufacturer), simulating a real-world business intelligence scenario: transforming raw data into actionable insights for management. The goal is to monitor and analyze key KPIs such as sales, revenue, profit, and returns, comparing performance across regions, products, and key customers through an interactive Power BI dashboard.
 This project presents a sales performance analysis for **Adventure Works**, developed during the *Power BI Desktop for Business Intelligence* course by Maven Academy.
 
-The raw data was cleaned and organized using **Power Query**, a data model was built, and key measures were calculated with **DAX**. The end-to-end dashboard enables business users to explore insights, track performance, and make data-driven decisions.
 
-#### **Data & Preparation**📂
-
-https://www.kaggle.com/datasets/ukveteran/adventure-works
-
-#### **Feature Creation & Analysis**⚙️
+#### **2. Data & Preparation**📂
 
 
-#### **Recommendations Based on Key Findings**💡
+The dataset consists of CSV files including transactions, returns, products, customers, and sales territories.
+You can find the dataset at the following link:  
+[AdventureWorks Sales Dataset](https://www.kaggle.com/datasets/ukveteran/adventure-works)
 
+Data preparation steps included:
+
+- Standardizing column names and correcting capitalization for uniformity.
+- Splitting or merging columns to create more granular calculated fields.
+- Importing all tables into Power BI’s relational model, ensuring clean, structured, and analysis-ready data.
+Additional cleaning and transformation:
+- Handling missing or blank values, removing duplicates, and correcting date, number, and text formats.
+- Merging related datasets (e.g., sales + returns) and adding calculated columns for segmentation and deeper analysis.
+
+#### **3. Feature Creation & Analysis**⚙️
+
+Once the data was clean, relationships between tables were defined in Power BI.
+Key calculations and features:
+
+- DAX measures for core KPIs: Total Sales, Total Orders, Profit, Return Rate.
+- Profit margin as (Profit / Sales) to evaluate performance by product/region.
+- Period-over-period comparisons using CALCULATE() and DATEADD() to track recent growth (e.g., 10, 90 days).
+
+Segmentation and analysis:
+
+- Customer segmentation by year and continent to study trends over time.
+- Regional aggregations to compare sales, profit, and growth across markets.
+- Product classification by category and tier according to revenue and margin to highlight top and low performers.
+- Dynamic “What‑if” parameters to simulate price adjustments and estimate potential impact on profitability.
+
+#### **4. Visualizations & Key Insights**📈
+
+Multiple dashboards were developed, each with a specific focus:
+- Sales Overview: global KPI summary (Total Sales, Profit, Return Rate) with period and region filters.
+- Regional Analysis: performance by continent and country, highlighting top markets and growth opportunities.
+- Customer Insights: customer segmentation by year and continent, spend distribution, and behavior patterns.
+- Product Performance: evaluation of product categories by revenue and profit margin to identify top and lagging products.
+
+Key findings:
+- Revenue of ~US $24.9 M with profit of ~US $10 M across ~25,000 orders; return rate of 2.17%, indicating reasonable operational efficiency.
+- The Accessories category had the highest order volume (~17,000), driven by Water Bottles, the top-selling product.
+- Tires and Tubes showed the strongest demand, making them key products in the sales mix.
+- Regionally, the US leads sales, followed by Australia, suggesting strong penetration in North America and Oceania.
+- A high-value customer, Maurice Shan, placed 6 orders totaling US $12.4 K, showing the impact of top clients.
+
+#### **5. Recommendations Based on Key Findings**💡
+
+- Focus on top-performing regions (US, Australia) to strengthen marketing and distribution strategies.
+- Expand the Accessories category, particularly Water Bottles, to capitalize on high demand.
+- Explore bundling or cross-selling strong products like Tires and Tubes to leverage key revenue drivers.
+- Implement retention strategies for high-value customers (like Maurice Shan) to increase long-term revenue.
 
 <img src="https://github.com/user-attachments/assets/c5d3792d-06cb-4c2a-9bd0-c0c5184f9839" width="400" alt="imagen 1">
-<img src="https://github.com/user-attachments/assets/721d60ff-0b15-4b5e-9ac7-bce92c1c28af" width="400" alt="imagen 1">
-<img src="https://github.com/user-attachments/assets/50d85958-be5b-48a3-8c5a-06c257b03786" width="400" alt="imagen 1">
-<img src="https://github.com/user-attachments/assets/16411a0d-d549-4db1-8f31-63c44014ea38" width="400" alt="imagen 1">
+<img src="https://github.com/user-attachments/assets/721d60ff-0b15-4b5e-9ac7-bce92c1c28af" width="400" alt="imagen 2">
+<img src="https://github.com/user-attachments/assets/50d85958-be5b-48a3-8c5a-06c257b03786" width="400" alt="imagen 3">
+<img src="https://github.com/user-attachments/assets/16411a0d-d549-4db1-8f31-63c44014ea38" width="400" alt="imagen 4">
 
 ***
 ***
@@ -241,11 +298,11 @@ Designed and implemented a relational database system for an engineering consult
 
 A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
 
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/c652e649-4bcf-48aa-898f-f3cfecb787c3" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/6c94d6e4-98e7-4989-8850-a195118ce44d" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/3a15b7bf-0a5c-4006-abe5-74099098c269" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/69f91a4c-6c94-4c04-b16c-f3817445a056" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/9ffe3414-f27a-4d47-bdeb-8d6541f36861" />
+<img src="https://github.com/user-attachments/assets/c652e649-4bcf-48aa-898f-f3cfecb787c3" width="400" alt="imagen 1">
+<img src="https://github.com/user-attachments/assets/6c94d6e4-98e7-4989-8850-a195118ce44d" width="400" alt="imagen 2">
+<img src="https://github.com/user-attachments/assets/3a15b7bf-0a5c-4006-abe5-74099098c269" width="400" alt="imagen 3">
+<img src="https://github.com/user-attachments/assets/9ffe3414-f27a-4d47-bdeb-8d6541f36861" width="400" alt="imagen 4">
+
 
 ***
 ### **Project N°5: Electromas–Electronics Retail Sales**
@@ -253,9 +310,11 @@ A summary of this project. Full details and the code will be available in the [p
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
 
 A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/3824c265-8b79-40ea-b196-9143fc55790f" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/f6d102e1-7009-4ef0-ae42-3037befbe3a6" />
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/6da3136a-af9a-45ef-83c6-8b0a3931edf4" />
+
+<img src="https://github.com/user-attachments/assets/3824c265-8b79-40ea-b196-9143fc55790f" width="400" alt="imagen 1">
+<img src="https://github.com/user-attachments/assets/f6d102e1-7009-4ef0-ae42-3037befbe3a6" width="400" alt="imagen 2">
+<img src="https://github.com/user-attachments/assets/6da3136a-af9a-45ef-83c6-8b0a3931edf4" width="400" alt="imagen 3">
+
 
 ***
 ### **Project N°6: Maven Market**
@@ -265,7 +324,6 @@ A summary of this project. Full details and the code will be available in the [p
 
 A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
 
-<img width="500" height="345" alt="image" src="https://github.com/user-attachments/assets/5aa85d63-f76a-47ec-a3d0-8bcc025597e5" />
-
+<img src="https://github.com/user-attachments/assets/5aa85d63-f76a-47ec-a3d0-8bcc025597e5" width="400" alt="imagen 1">
 
 
