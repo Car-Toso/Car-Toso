@@ -136,7 +136,7 @@ Full details and the code will be available in the [project repository](https://
 
 <p align="center">
   <img src=https://raw.githubusercontent.com/Car-Toso/Adventure-Works-Sales-Dashboard/main/Assets/DashboardGif.gif
-   alt="Dashboard Gif" width="700"/>
+     alt="Dashboard Gif" width="700"/>
 </p>
 
 #### **Overview**📘
