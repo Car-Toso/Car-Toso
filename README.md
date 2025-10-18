@@ -134,10 +134,13 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
 Interactive Power BI dashboard analyzing Adventure Works sales, products and customers, developed using advanced DAX and Power Query techniques.
 Full details and the code will be available in the [project repository](https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard).
 
-<p align="center">
-  <img src=https://raw.githubusercontent.com/Car-Toso/Adventure-Works-Sales-Dashboard/main/Assets/DashboardGif.gif
-     alt="Dashboard Gif" width="700"/>
+<p align="center" style="background-color: transparent; margin: 0; padding: 0;">
+  <img src="https://raw.githubusercontent.com/Car-Toso/Adventure-Works-Sales-Dashboard/main/Assets/DashboardGif.gif"
+       alt="Dashboard Animation"
+       style="display: block; border: none; outline: none; margin: 0; padding: 0; background: transparent;"
+       width="700">
 </p>
+
 
 #### **Overview**📘
 
