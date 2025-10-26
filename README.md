@@ -40,7 +40,7 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 ***
 ***
 <p align="center">
-  <img src="Assets/Bellabeat%20Color.jpg" width="150" alt="Bellabeat Logo">
+  <img src="Assets/BellabeatColor.jpg" width="150" alt="Bellabeat Logo">
 </p>
 
 ### **Project N°1: Bellabeat-Google Data Analytics Capstone**
