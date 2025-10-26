@@ -1,0 +1,34 @@
+title: "Carlos Tosoratto"
+description: "Data Analyst Portfolio"
+remote_theme: "pages-themes/midnight@v0.2.0"
+
+# --- Datos del sitio ---
+author: "Carlos Tosoratto"
+email: "carlos.tosoratto@gmail.com"
+github_username: "Car-Toso"
+linkedin_username: "http://www.linkedin.com/in/carlos-ruben-tosoratto-90a428111"
+
+# --- Plugins recomendados ---
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag     # Mejora visibilidad en buscadores
+  - jekyll-sitemap     # Genera sitemap.xml automáticamente
+
+# --- Configuración Markdown ---
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# --- Opciones de layout ---
+show_downloads: false   # Oculta el botón “Download” en el header
+google_analytics: ""    # Tu código GA si querés medir tráfico
+theme_color: "#151515"  # Color base de fondo del sitio (oscuro)
+
+# --- Opciones de build ---
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
