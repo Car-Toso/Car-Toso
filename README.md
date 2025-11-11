@@ -47,10 +47,10 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 ![BigQuery](https://img.shields.io/badge/BIGQUERY-0078D4?style=flat&logo=google-bigquery&logoColor=white)
 ![Tableau](https://img.shields.io/badge/TABLEAU-1f447e?style=flat&logo=Tableau&logoColor=white)
 
-This is a summary of this project. Full details and the code will be available in the [project repository](https://github.com/Car-Toso/Bellabeat---Google-Capstone).
+For more details about this project, please visit the [project repository](https://github.com/Car-Toso/Bellabeat---Google-Capstone).
 
 <p align="center">
-  <img src="Assets/BellabeatDashboardGif.gif" width="700" alt="Bellabeat Dashboard">
+  <img src="Assets/BellabeatDashboardGif.gif" width="800" alt="Bellabeat Dashboard">
 </p>
 
 #### Index Bellabeat
@@ -81,38 +81,22 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
 ***
 #### **4. Visualizations & Key insights**
 
-1. **Activity Category – Vertical bar chart:** 
-    - **32% of activity records** are classified as sedentary, indicating that a significant portion of logged activity is low-intensity.
-2. **App Usage – Donut Chart:**
-    - **93.51% of users** are classified as high users, suggesting that most users are consistently engaging with the tracker.
-3. **Average Total Steps & Average Total Minutes of Sleep – Grouped Bar Chart by Day of the Week:**
-    - Only **2 days exceed the minimum 8,000 steps suggested** by research for health benefits.
-    - **None reach the recently popular 10,000-step goal**.
-    - **Average sleep duration is below 480 minutes (8 hours) every day**, highlighting a consistent shortfall in recommended sleep.
-4. **Average Total Steps vs. Time in Bed – Combined Bar & Line Chart:** 
-    - Days with higher average step counts tend to be followed by longer total time in bed, indicating a **positive relationship between physical activity and rest**.
-    - This pattern suggests that users may **compensate increased activity with extended recovery periods**, offering opportunities for **personalized wellness recommendations** that balance daily movement and sleep quality.
-5. **Average Total Steps per User – Bar Chart:** 
-    - Out of 33 users, **7 exceed 10,000 steps** and **14 exceed 8,000 steps**, showing that **less than half of users reach the level suggested by research for health benefits**.
-    - This highlights that while some users are highly active, **most are below the recommended daily activity thresholds**, indicating potential opportunities for engagement or personalized activity goals.
-6. **Lightly, Fairly, and Very Active Minutes vs. Weekday – Grouped Bar Chart:** 
-    - **Fridays and Saturdays show higher lightly active minutes**, suggesting that users tend to be more active during the end of the workweek. This can be seen as a **positive indicator of weekend engagement in physical activity**, which could be leveraged for **targeted wellness tips or reminders** to maintain consistent activity throughout the week.
+1. **Activity Category – Vertical bar chart:** *32% of records are sedentary*, showing predominantly low-intensity activity.
+2. **App Usage – Donut Chart:** *93.5% of users are highly active within the app*, indicating strong engagement.
+3. **Average Total Steps & Average Total Minutes of Sleep – Grouped Bar Chart by Day of the Week:** *Only 2 days* exceed 8,000 steps; none reach 10,000. Average sleep is below 8 hours daily, revealing insufficient rest.
+4. **Average Total Steps vs. Time in Bed – Combined Bar & Line Chart:** Higher step counts correlate with longer time in bed, suggesting users recover more after active days.
+5. **Average Total Steps per User – Bar Chart:** Out of 33 users, *7 exceed 10,000 steps* and *14 exceed 8,000 steps*, showing that *less than half of users reach the level suggested by research for health benefits*.
+This highlights that while some users are highly active, *most are below the recommended daily activity thresholds*, indicating potential opportunities for engagement or personalized activity goals.
+6. **Lightly, Fairly, and Very Active Minutes vs. Weekday – Grouped Bar Chart:** Lightly active minutes peak on Fridays and Saturdays, reflecting increased weekend activity that could inform targeted wellness recommendations.
 
 ***
 #### **5. Recommendations Based on Key Findings**
 
-1. **Increase Data Sample Size**📊
-    - The current dataset includes only 33 users, which limits the ability to generalize insights.
-    - Collecting data from more users over longer periods would improve the reliability of conclusions and allow detection of more nuanced patterns.
-2. **Encourage Daily Activity** 🚶‍♂️🏃‍♀️
-    - Since 32% of activity records are sedentary and less than half of users meet the 8,000 step thresholds, consider strategies to motivate users to increase daily steps, such as personalized reminders, challenges, or gamification.
-3. **Promote Consistent Sleep** 😴🛌
-    - Average sleep is below 8 hours every day. Recommendations could include tips for better sleep routines or integrating sleep reminders based on activity levels.
-4. **Leverage Positive Activity Patterns** 🎉📈
-    - Users are more lightly active on Fridays and Saturdays and tend to sleep more after highly active days.
-    - Wellness programs could encourage weekend activities and personalized guidance on balancing activity and rest throughout the week.
-5. **Personalized Engagement Opportunities** 🧩💡
-    - Given that some users are highly active while others are not, segmenting users based on activity levels could help provide tailored recommendations for both activity and recovery.
+1. **Increase Data Sample Size:** 📊 Increase the number of users and tracking duration to improve reliability and reveal deeper patterns.
+2. **Encourage Daily Activity:** 🚶‍♂️🏃‍♀️ Use personalized reminders or gamified challenges to reduce sedentary behavior and help more users reach step goals.
+3. **Promote Consistent Sleep:** 😴🛌 Offer guidance and reminders to promote consistent, adequate rest.
+4. **Leverage Positive Activity Patterns:** 🎉📈 Encourage weekend activity and balance it with recovery insights.
+5. **Personalized Engagement Opportunities:** 🧩💡 Segment users by activity level to deliver targeted wellness recommendations
      
 ***
 <div style="text-align:center;">
@@ -138,13 +122,13 @@ This project analyzes user activity and sleep patterns from Bellabeat smart devi
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
 
 Interactive Power BI dashboard analyzing Adventure Works sales, products and customers, developed using advanced DAX and Power Query techniques.
-Full details and the code will be available in the [project repository](https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard).
+Full documentation and source code are available in the [project repository](https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard).
 
 <p align="center" style="background-color: transparent; margin: 0; padding: 0;">
   <img src="Assets/DashboardGif.gif"
        alt="Dashboard Animation"
        style="display: block; border: none; outline: none; margin: 0; padding: 0; background: transparent;"
-       width="700">
+       width="800">
 </p>
 
 #### Index Adventure Works
@@ -214,10 +198,12 @@ Key findings:
 - Explore bundling or cross-selling strong products like Tires and Tubes to leverage key revenue drivers.
 - Implement retention strategies for high-value customers (like Maurice Shan) to increase long-term revenue.
 
+<p align="center">
 <img src="Assets/GeneralDashboard.png" width="400" alt="imagen 1">
 <img src="Assets/SalesMap.png" width="400" alt="imagen 2">
 <img src="Assets/ProductsPage.png" width="400" alt="imagen 3">
 <img src="Assets/CustomersPage.png" width="400" alt="imagen 4">
+</p>
 
 ***
 ***
@@ -228,9 +214,9 @@ Key findings:
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
 ![VSCODE](https://img.shields.io/badge/VSCODE-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-A summary of this project. Full details and the code will be available in the [project repository](https://github.com/Car-Toso/CS50-SQL-Project-Engineering-DB/tree/main).
+This is a summary of the project. Full details and the complete code are available in the [project repository](https://github.com/Car-Toso/CS50-SQL-Project-Engineering-DB/tree/main).
 
-If you want to see the final project presentation, click this link  [Final Project Presentation](https://youtu.be/bjtHTrzuTDg) [![YouTube](https://img.shields.io/badge/YouTube-FC0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/bjtHTrzuTDg)
+If you want to see the final project presentation, click this link [Final Project Presentation](https://youtu.be/bjtHTrzuTDg) [![YouTube](https://img.shields.io/badge/YouTube-FC0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/bjtHTrzuTDg)
 
 <p align="center">
   <a href="https://youtu.be/bjtHTrzuTDg">
@@ -249,52 +235,52 @@ If you want to see the final project presentation, click this link  [Final Proje
 
 #### **1. Overview**
 
-Designed and implemented a relational database system for an engineering consultancy firm to manage staff, clients, projects, budgets, and equipment assignments. The system enables efficient data organization and supports analytical queries for future integration with Power BI dashboards.
+Designed and implemented a relational database system for an engineering consultancy firm to manage staff, clients, projects, budgets, and equipment assignments. The system enables efficient data organization, supports analytical queries, and has been integrated with Power BI for dynamic visualization of business metrics through interactive dashboards.
 
 #### **2. Scope**
 
 - Modeled key entities: Staff, Clients, Contacts, Projects, Budgets, Equipments, and their relationships.
 - Implemented soft delete for staff records to preserve data integrity.
 - Supported full CRUD operations and structured queries for management insights.
+- Connected SQLite database to Power BI for real-time data analysis and reporting.
 
 #### **3. Key Features**
 
 - Manage clients, budgets, and projects with status tracking (pending, accepted, rejected).
-
 - Assign staff and equipment to projects through many-to-many relationships.
-
 - Create SQL views for summarized reporting (e.g., project overviews, workload analysis).
-
 - Added indexes on frequently joined columns for better performance.
+- Develop 3 interactive Power BI dashboards:
+  - Overview Dashboard: Summarizes key KPIs for projects, budgets, equipment, and staff to provide a clear snapshot of overall performance.
+  - Clients & Budgets Dashboard: Tracks total budgets, acceptance rates, and project distribution by client.
+  - Staff & Equipment Dashboard: Monitors staff workload, project involvement, and equipment utilization.
 
 #### **4. Database Design & Preparation**
 
 - Proper use of primary and foreign keys, ensuring referential integrity.
-
 - Logical use of data types (INTEGER, TEXT, DATE, BOOLEAN).
-
 - Included triggers to prevent hard deletes and maintain consistent data states.
-
 - Optimized schema to simplify Power BI integration for visualization.
 
 #### **5. Highlights**
 
-- Fully functional schema built from scratch using SQLite.
-
-- Demonstrates database normalization and practical application of SQL concepts from the CS50 SQL course.
-
-- Serves as a foundation for data analytics and project management solutions in engineering environments.
+- Fully functional database-to-dashboard pipeline, from data modeling in SQLite to visualization in Power BI.
+- Demonstrates advanced SQL design, normalization, and trigger implementation learned through CS50 SQL.
+- Integrates data analytics principles, bridging engineering operations with business intelligence.
+- Provides a scalable foundation for data-driven decision-making within engineering environments.
 
 #### **6. Future Improvements**
 
 - Add task-level management and scheduling.
-
 - Include equipment maintenance and cost tracking.
-
 - Implement user access control and advanced reporting layers.
 
 <p align="center">
-  <img src="Assets/ERD-OFFICE1.png" width="700" alt="ERD">
+  <img src="Assets/ERD-OFFICE1.png" width="800" alt="ERD">
+<img src="Assets/Overview.png" width="400" alt="Overview">
+<img src="Assets/Clients1.png" width="400" alt="Clients1">
+<img src="Assets/Staff.png" width="400" alt="Staff">
+<img src="Assets/Staff1.png" width="400" alt="Staff1">
 </p>
 
 ***
@@ -305,11 +291,12 @@ Designed and implemented a relational database system for an engineering consult
 ![DBeaver](https://img.shields.io/badge/DBeaver-FF6F00?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
 
 A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
-
+<p align="center">
 <img src="Assets/OL1.png" width="400" alt="imagen 1">
 <img src="Assets/OL2.png" width="400" alt="imagen 2">
 <img src="Assets/OL3.png" width="400" alt="imagen 3">
 <img src="Assets/OL4.png" width="400" alt="imagen 4">
+</p>
 
 ***
 ### **Project N°5: Electromas–Electronics Retail Sales**
@@ -317,11 +304,11 @@ A summary of this project. Full details and the code will be available in the [p
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
 
 A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
-
+<p align="center">
 <img src="Assets/EM1.png" width="400" alt="imagen 1">
 <img src="Assets/EM2.png" width="400" alt="imagen 2">
 <img src="Assets/EM3.png" width="400" alt="imagen 3">
-
+</p>
 
 ***
 ### **Project N°6: Maven Market**
@@ -330,7 +317,7 @@ A summary of this project. Full details and the code will be available in the [p
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
 
 A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
-
+<p align="center">
 <img src="Assets/MM1.png" width="400" alt="imagen 1">
-
+</p>
 
