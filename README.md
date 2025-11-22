@@ -284,6 +284,8 @@ Designed and implemented a relational database system for an engineering consult
 </p>
 
 ***
+***
+
 ### **Project N°4: OList Brasil**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
@@ -299,6 +301,8 @@ A summary of this project. Full details and the code will be available in the [p
 </p>
 
 ***
+***
+
 ### **Project N°5: Electromas–Electronics Retail Sales**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
@@ -311,6 +315,8 @@ A summary of this project. Full details and the code will be available in the [p
 </p>
 
 ***
+***
+
 ### **Project N°6: Maven Market**
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
