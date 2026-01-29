@@ -43,7 +43,7 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 ***
 ***
 <p align="center">
-  <img src="Assets/Olist_logo.png" width="150" alt="Olist Logo">
+  <img src="Assets/olist_logo.png" width="150" alt="Olist Logo">
 </p>
 
 ### **Project N°1: End-to-End E-Commerce Analytics Platform**
