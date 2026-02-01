@@ -151,6 +151,9 @@ To ensure long-term sustainability and margin expansion, the following strategic
 <img src="Assets/OL2.png" width="400" alt="imagen 2">
 <img src="Assets/OL3.png" width="400" alt="imagen 3">
 <img src="Assets/OL4.png" width="400" alt="imagen 4">
+<img src="Assets/OL7.png" width="400" alt="imagen 7">
+<img src="Assets/OL8.png" width="400" alt="imagen 8">
+<img src="Assets/OL9.png" width="400" alt="imagen 9">
 </p>
 
 ***
