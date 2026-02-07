@@ -54,7 +54,12 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 ![DBeaver](https://img.shields.io/badge/DBeaver-FF6F00?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
 
 
-This is a summary of the project. Full details and the complete code are available in the [project repository](https://github.com/Car-Toso/Olist-ECommerce-SQL-PBI).
+Data analysis and visualization project of Olist E-commerce, featuring an interactive Power BI dashboard and SQL queries for data extraction. Full documentation and source code are available in the [project repository](https://github.com/Car-Toso/Olist-ECommerce-SQL-PBI).
+
+<p align="center">
+<img src="Assets/OLGIF1.gif" width="800" alt="gif 1">
+</p>
+
 
 #### Index E-Commerce Analytics Platform
 
