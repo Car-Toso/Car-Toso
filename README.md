@@ -57,7 +57,7 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 Data analysis and visualization project of Olist E-commerce, featuring an interactive Power BI dashboard and SQL queries for data extraction. Full documentation and source code are available in the [project repository](https://github.com/Car-Toso/Olist-ECommerce-SQL-PBI).
 
 <p align="center">
-<img src="Assets/OLGIF1.gif" width="800" alt="gif 1">
+<img src="Assets/OLGif1.gif" width="800" alt="gif 1">
 </p>
 
 
