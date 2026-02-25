@@ -47,22 +47,32 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 </p>
 
 ### **Project N°1: End-to-End E-Commerce Analytics Platform**
+![DBeaver](https://img.shields.io/badge/DBeaver-FF6F00?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
-![DBeaver](https://img.shields.io/badge/DBeaver-FF6F00?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
-
 
 Data analysis and visualization project of Olist E-commerce, featuring an interactive Power BI dashboard and SQL queries for data extraction. Full documentation and source code are available in the [project repository](https://github.com/Car-Toso/Olist-ECommerce-SQL-PBI).
 
+> #### 📊 Project Highlights
+> * **🎯Business Goal:** Transformed raw transactional data into a comprehensive E-commerce Analytics platform to drive revenue growth, optimize logistics, and identify high-value customer segments.
+> * **📈Key Metrics:** Engineered **+25 advanced DAX measures** (YoY/MoM Growth, Profit Margins, & Shipping Efficiency) and implemented a robust **Star Schema** data model for optimized performance.
+> * **📂Data Size:** Processed and integrated **9 relational tables** using complex SQL transformations and multi-stage data cleansing.
+> * **🛠️ Tech Stack:** **PostgreSQL** (ETL & Data Wrangling), **Power BI** (Data Modeling & UI/UX Design), **Power Query**.
+> * **💡 Main Result:** Delivered a decision-making tool that identifies underperforming product categories and regional shipping bottlenecks in real-time, enabling data-driven inventory adjustments.
+
 <p align="center">
+<img src="Assets/OL1.png" width="400" alt="img 9">
 <img src="Assets/OLGif1.gif" width="400" alt="gif 1">
-<img src="Assets/OLGif2.gif" width="400" alt="gif 1">
+<img src="Assets/OLGif2.gif" width="400" alt="gif 2">
+<img src="Assets/OL4.png" width="400" alt="img 4">
+<img src="Assets/OL7.png" width="400" alt="img 7">
+<img src="Assets/OL8.png" width="400" alt="img 8">
+<img src="Assets/OL9.png" width="400" alt="img 9">
 </p>
 
-
-#### Index E-Commerce Analytics Platform
+#### **Index E-Commerce Analytics Platform**
 
 1. [**Overview**📘](#1-overview)
 2. [**Data & Preparation**📂](#2-data--preparation)
@@ -76,27 +86,29 @@ This project provides a comprehensive 360° analysis of **Olist**, the largest d
 
 #### **2. Data & Preparation**
 
-The project follows a robust end-to-end data engineering pipeline to ensure data integrity and optimal performance in **Power BI**. The raw dataset from Olist was processed using **PostgreSQL**, moving from unstructured raw files to a refined Star Schema.
+Building a scalable foundation using a robust ETL pipeline and optimized modeling.
 
-#### *Database Engineering & ETL Flow*
-To maintain a scalable and clean environment, the following SQL-based workflow was executed:
+#### **SQL-Driven ETL**
 
-* **Schema Definition (01_schema)**: Created a structured environment in PostgreSQL to host transactional data, ensuring correct data types for financial accuracy.
-* **Raw Data Ingestion (02_load_raw)**: Successfully migrated CSV files into the database, handling encoding and large-scale ingestion.
-* **Integrity Enforcement (03_constraints_fix)**: Defined Primary and Foreign Keys to establish relational integrity and prevent data duplication.
-* **Exploratory Data Analysis (04_eda)**: Conducted deep SQL exploration to identify outliers, missing values, and seasonal trends within the Brazilian e-commerce landscape.
-* **Normalization & Business Views (05_normalization_views)**: Instead of loading raw tables, I developed optimized **SQL Views**. This layer encapsulates business logic, pre-aggregates financial metrics, and serves as a "Single Source of Truth" for Power BI.
+ Processed raw transactional data in PostgreSQL through a multi-stage [pipeline](https://github.com/Car-Toso/End-to-End-E-Commerce-Analytics-Platform-SQL-Power-Bi/tree/main/Sql):
+
+  * **Database Design:** Defined the schema and relational integrity constraints ([01_schema](https://github.com/Car-Toso/End-to-End-E-Commerce-Analytics-Platform-SQL-Power-Bi/blob/main/Sql/01_schema.sql), [03_constraints](https://github.com/Car-Toso/End-to-End-E-Commerce-Analytics-Platform-SQL-Power-Bi/blob/main/Sql/03_constraints_fix.sql)).
+
+  * **Data Wrangling:** Handled large-scale ingestion and performed deep EDA to identify market trends ([02_load](https://github.com/Car-Toso/End-to-End-E-Commerce-Analytics-Platform-SQL-Power-Bi/blob/main/Sql/02_load_raw.sql) [4_eda](https://github.com/Car-Toso/End-to-End-E-Commerce-Analytics-Platform-SQL-Power-Bi/blob/main/Sql/04_eda.sql).
+
+  * **Optimization Layer:** Developed **SQL Views** ([5_normalization](https://github.com/Car-Toso/End-to-End-E-Commerce-Analytics-Platform-SQL-Power-Bi/blob/main/Sql/05_normalization_views.sql)) to encapsulate business logic, creating a "Single Source of Truth" for Power BI.
 
 <p align="center">
 <img src="Assets/OL5.png" width="600" alt="imagen 5">
 </p>
 
-#### *Data Modeling*
-The final data architecture was implemented as a **Star Schema** in Power BI to maximize DAX efficiency:
 
-* Fact Tables: Centered around fact_orders and fact_order_payments to track every financial transaction.
-* Dimension Tables: Developed comprehensive dimensions for dim_products, dim_customers, dim_sellers, and dim_geography.
-* Calendar Architecture: Established a dual-calendar system—a standard linked Calendar Table for core time intelligence and a Disconnected Calendar to drive the dynamic time-window switching (1W, 1M, TY, etc.) without disrupting model filters.
+#### **Data Modeling (Star Schema)**
+
+Designed a high-performance architecture centered on *fact_orders* and *fact_payments*.
+
+* Dual-Calendar System: Implemented a standard Calendar and a Disconnected Calendar for dynamic time-window switching (1W, 1M, YTD).
+
 
 <p align="center">
 <img src="Assets/OL6.png" width="600" alt="imagen 6">
@@ -104,63 +116,38 @@ The final data architecture was implemented as a **Star Schema** in Power BI to 
 
 #### **3. Feature Creation & Analysis**
 
-This project showcases advanced analytical capabilities by transforming raw data into actionable intelligence through complex DAX modeling and interactive UX design.
+This section highlights the technical complexity required to transform data into strategic tools.
 
-#### *Strategic Business Logic: The Yearly Health Score*
+* **Yearly Health Index (Composite KPI):**
+  * Developed a custom **weighted algorithm (0-1)** that integrates Revenue, On-Time Delivery, and Customer Satisfaction into a single "Business Pulse" metric.
 
-To provide an instantaneous diagnostic of business performance, I developed a weighted **Health Index (0 to 1)**. This composite metric enables stakeholders to move beyond looking at isolated KPIs by providing a holistic "Business Pulse":
+* **Dynamic UX Framework:**
 
-* Weighted Components: The score is calculated by assigning strategic importance to different operational pillars: **Net Revenue (40%)**, **On-Time Delivery (25%)**, **Customer Volume (20%)**, and **Average Review Scores (15%)**.
-
-* DAX Implementation: Used normalized variables to scale different units (currency, percentages, and integers) into a unified scoring system, displayed via a custom Gauge Chart for immediate visual impact.
-
-#### *Dynamic Analysis Framework*
-* Multi-Metric Selector & Interactive Bookmarks: Instead of static reports, I implemented a custom Metric Selection panel. By combining Disconnected Tables with SWITCH logic and Bookmarks, the dashboard allows users to toggle the entire visual environment between 6 different KPIs (Gross Revenue, AOV, Cancellation Rate, etc.), ensuring specific chart types are optimized for each metric without cluttering the UI.
-* Custom Time Windows: To solve the limitation of standard date slicers, I developed a Time Intelligence Selector. This feature allows users to "zoom" into specific intervals: 1W, 1M, 3M, TY (This Year), LY (Last Year), and ALL. This was achieved using a disconnected calendar table to drive the minimum and maximum date boundaries within a CALCULATE filter context.
-* Variable Moving Averages: To identify real growth trends amidst daily transactional noise, I created a Flexible Moving Average tool. Users can choose between 3, 7, 14, or 30-day windows, utilizing AVERAGEX and DATESINPERIOD to smooth volatility based on the required level of granularity.
-
+  * Metric Switcher: A single interface to toggle between 6 different KPIs using SWITCH logic and interactive bookmarks.
+  * Custom Time Windows: Implementation of a Disconnected Calendar to allow 1W, 1M, and YTD "zooming" without affecting global filters.
+  * Volatility Smoothing: Flexible Moving Averages (3 to 30 days) using AVERAGEX to identify real trends behind daily noise.
 
 #### **4. Visualizations & Key insights**
 
+Key discoveries extracted from the 4-stage dashboard ecosystem:
 
-The analytical journey is organized into four specialized dashboards, moving from high-level summaries to granular, actionable recommendations.
+* **Growth Plateau:** Customer acquisition stalled at **~20K/quarter** in 2018. With near-zero retention, the business reached a saturation risk.
 
-#### *Dashboard 1 & 2: Performance & Drivers*
-* Executive Overview: A comprehensive 360° view of the business, highlighting a Gross Revenue of R$ 15.84M and an On-Time Delivery (OTD) rate of 91.9%.
-* Performance Drivers: Utilizes interactive bookmarks to isolate top-performing categories (like Health & Beauty and Watches) and regional powerhouses like Sao Paulo.
+* **Revenue Integrity:** High operational efficiency with a **97% retention rate**; only 3% leakage from cancellations.
 
-#### *Dashboard 3: Diagnostic Insights (Advanced DAX)*
-This section utilizes the "Health Score" logic to identify specific business risks:
+* **Operational Friction:** High volume of **1-star** reviews despite a 4.09 average, indicating localized but severe service failures.
 
-* **Revenue Integrity (Funnel Analysis)**: The ecosystem demonstrates high operational efficiency with a **97% revenue retention rate**. Leakage from cancellations (R$ 0.11M) and pipeline losses (R$ 0.32M) remains below 3%, suggesting highly effective order fulfillment.
-* **Customer Acquisition & Retention**: A "Growth Stagnation Alert" was identified in 2018 as customer acquisition plateaued at **~20K per quarter**. With near-zero retention, new acquisitions only offset churn, leading to a market saturation risk.
-* **Operational Polarization**: Despite a strong 4.09 average review score, a high volume of **1-star reviews** reveals significant operational friction that threatens brand reputation.
-* **Logistics Efficiency**: The analysis of "Promised vs. Actual" delivery dates shows a massive safety buffer. Tightening these estimates presents a **Competitive Edge Opportunity** to increase sales conversion without risking reliability.
+* **Logistics Opportunity:** "Promised vs. Actual" delivery analysis shows an excessive safety buffer. Tightening estimates could significantly **boost conversion rates**.
 
 #### **5. Recommendations Based on Key Findings**
 
-To ensure long-term sustainability and margin expansion, the following strategic actions are recommended:
+**Strategic roadmap** based on data evidence:
 
-**Immediate (High Priority): Risk Mitigation**
-* **Root-Cause Audit**: Conduct an immediate investigation into the R$ 1.27M revenue drop observed between Q2 and Q3 2018.
-* **Friction Reduction**: Address the source of 1-star reviews to halt the customer decline observed in the latter half of 2018.
+1- **Retention First:** Launch a loyalty program to break the 2018 acquisition plateau.
 
-**Recommended: Growth & Retention**
-* **Loyalty Program Implementation**: Shift focus from pure acquisition to customer retention. Developing a repeat-buyer incentive is critical to break the "plateau" observed in the 2018 customer base.
-* **Logistics Optimization**: Tighten delivery date estimates. Reducing the "promised buffer" will improve the customer experience and competitive positioning against faster shippers.
+2- **Friction Audit:** Investigate the R$ 1.27M revenue drop in late 2018 by cross-referencing 1-star reviews with specific sellers.
 
-**Suggested: Geographic Expansion**
-* **Regional De-risking**: Reallocate 15% of the marketing budget from the saturated Sao Paulo market to **high-AOV clusters in the Northeast (Pernambuco/Bahia)**. This will increase overall margins without scaling logistics overhead.
-
-<p align="center">
-<img src="Assets/OL1.png" width="400" alt="imagen 1">
-<img src="Assets/OL2.png" width="400" alt="imagen 2">
-<img src="Assets/OL3.png" width="400" alt="imagen 3">
-<img src="Assets/OL4.png" width="400" alt="imagen 4">
-<img src="Assets/OL7.png" width="400" alt="imagen 7">
-<img src="Assets/OL8.png" width="400" alt="imagen 8">
-<img src="Assets/OL9.png" width="400" alt="imagen 9">
-</p>
+3- **Market Expansion:** Shift 15% of the budget from saturated Sao Paulo to **high-AOV clusters in the Northeast** (Bahia/Pernambuco) to improve margins.
 
 ***
 ***
@@ -181,6 +168,12 @@ If you want to see the final project presentation, click this link [Final Projec
   </a>
 </p>
 
+>#### 📊 Project Highlights
+> * **📈 Key Metrics:** Implemented 7 interconnected entities with optimized indexing, 4 SQL views for automated reporting, and 3 specialized Power BI dashboards.
+> * **📂 Data Integrity:** Developed SQL Triggers for "Soft Delete" logic and enforced strict referential integrity through Primary/Foreign Key constraints.
+> * **🛠️ Tech Stack:** SQLite (Schema Design & Triggers), DB Browser, Power BI (Relational Modeling & Visualization).
+> * **💡 Main Result:** Developed a scalable "Database-to-Dashboard" pipeline that enables real-time monitoring of project acceptance rates, staff workload, and equipment ROI.
+
 #### Index Engineering Project Manager DB (SQL + Power BI)
 
 1. [**Overview📘**](#1-overview-1)
@@ -196,41 +189,53 @@ Designed and implemented a relational database system for an engineering consult
 
 #### **2. Scope**
 
-- Modeled key entities: Staff, Clients, Contacts, Projects, Budgets, Equipments, and their relationships.
-- Implemented soft delete for staff records to preserve data integrity.
-- Supported full CRUD operations and structured queries for management insights.
-- Connected SQLite database to Power BI for real-time data analysis and reporting.
+Building a reliable, high-performance foundation.
+
+* **Relational Modeling:** Developed a normalized [schema](https://github.com/Car-Toso/End-to-End-Database-Engineering-SQL-Power-BI/blob/main/Sql/schema.sql) featuring 7 core entities with many-to-many relationships for staff and equipment allocation.
+
+* **Data Integrity & Logic:** Implemented [SQL Triggers](https://github.com/Car-Toso/End-to-End-Database-Engineering-SQL-Power-BI/blob/main/Sql/schema.sql#L96) to prevent data loss via "Soft Delete" mechanisms. Enforced Referential Integrity and optimal data typing for precise financial tracking in budgets.
+
+* **Optimization Layer:** Created custom [SQL Views](https://github.com/Car-Toso/End-to-End-Database-Engineering-SQL-Power-BI/blob/main/Sql/schema.sql#L146) to simplify complex joins, serving as an optimized data layer for reporting.
+
+* **BI Integration:** Connected SQLite database to Power BI for real-time [data reporting](https://github.com/Car-Toso/End-to-End-Database-Engineering-SQL-Power-BI/blob/main/Engineering%20Office.pbix).
 
 #### **3. Key Features**
 
-- Manage clients, budgets, and projects with status tracking (pending, accepted, rejected).
-- Assign staff and equipment to projects through many-to-many relationships.
-- Create SQL views for summarized reporting (e.g., project overviews, workload analysis).
-- Added indexes on frequently joined columns for better performance.
-- Develop 3 interactive Power BI dashboards:
-  - Overview Dashboard: Summarizes key KPIs for projects, budgets, equipment, and staff to provide a clear snapshot of overall performance.
-  - Clients & Budgets Dashboard: Tracks total budgets, acceptance rates, and project distribution by client.
-  - Staff & Equipment Dashboard: Monitors staff workload, project involvement, and equipment utilization.
+The analytical layer consists of three strategic dashboards:
+
+* **Executive Overview:** Real-time KPI tracking for project health and global performance.
+
+* **Commercial Analytics:** Deep dive into budget acceptance rates and client-specific revenue distribution.
+
+* **Operational Efficiency:** Granular monitoring of staff workload and equipment ROI to prevent bottlenecks.
 
 #### **4. Database Design & Preparation**
 
-- Proper use of primary and foreign keys, ensuring referential integrity.
-- Logical use of data types (INTEGER, TEXT, DATE, BOOLEAN).
-- Included triggers to prevent hard deletes and maintain consistent data states.
-- Optimized schema to simplify Power BI integration for visualization.
+* **Referential Integrity:** Strategic implementation of Primary and Foreign Keys across 7 interconnected tables to ensure data consistency.
+
+* **Data Typing:** Precise application of INTEGER, TEXT, DATE, and BOOLEAN types to optimize storage and financial accuracy in budgets.
+
+* **Business Logic:** Developed SQL Triggers to enforce "Soft Delete" policies and maintain audit trails without losing historical records.
+
+* **BI Optimization:** Refined the relational schema to minimize complexity during Power BI integration, ensuring high-performance DAX calculations.
 
 #### **5. Highlights**
 
-- Fully functional database-to-dashboard pipeline, from data modeling in SQLite to visualization in Power BI.
-- Demonstrates advanced SQL design, normalization, and trigger implementation learned through CS50 SQL.
-- Integrates data analytics principles, bridging engineering operations with business intelligence.
-- Provides a scalable foundation for data-driven decision-making within engineering environments.
+* **Full Pipeline:** Successful implementation of a complete "Database-to-Dashboard" workflow, from raw SQL modeling to interactive visualization.
+
+* **CS50 Methodology:** Project built following advanced SQL design principles, including normalization (3NF) and indexing, as taught in **CS50 SQL**.
+
+* **Analytical Bridge:** Demonstrates the ability to bridge engineering operations with business intelligence, turning raw records into actionable KPIs.
+
+* **Scalable Foundation:** Provides a production-ready architecture capable of supporting data-driven decision-making in consultancy environments.
 
 #### **6. Future Improvements**
 
-- Add task-level management and scheduling.
-- Include equipment maintenance and cost tracking.
-- Implement user access control and advanced reporting layers.
+* Add task-level management and scheduling.
+
+* Include equipment maintenance and cost tracking.
+
+* Implement user access control and advanced reporting layers.
 
 <p align="center">
   <img src="Assets/ERD-OFFICE1.png" width="800" alt="ERD">
