@@ -63,13 +63,13 @@ Data analysis and visualization project of Olist E-commerce, featuring an intera
 > * **💡 Main Result:** Delivered a decision-making tool that identifies underperforming product categories and regional shipping bottlenecks in real-time, enabling data-driven inventory adjustments.
 
 <p align="center">
-<img src="Assets/OL1.png" width="400" alt="img 9">
-<img src="Assets/OLGif1.gif" width="400" alt="gif 1">
-<img src="Assets/OLGif2.gif" width="400" alt="gif 2">
-<img src="Assets/OL4.png" width="400" alt="img 4">
-<img src="Assets/OL7.png" width="400" alt="img 7">
-<img src="Assets/OL8.png" width="400" alt="img 8">
-<img src="Assets/OL9.png" width="400" alt="img 9">
+<img src="Assets/OL1.png" width="800" alt="img 9">
+<img src="Assets/OLGif1.gif" width="800" alt="gif 1">
+<img src="Assets/OLGif2.gif" width="800" alt="gif 2">
+<img src="Assets/OL4.png" width="800" alt="img 4">
+<img src="Assets/OL7.png" width="800" alt="img 7">
+<img src="Assets/OL8.png" width="800" alt="img 8">
+<img src="Assets/OL9.png" width="800" alt="img 9">
 </p>
 
 #### **Index E-Commerce Analytics Platform**
@@ -259,6 +259,13 @@ The analytical layer consists of three strategic dashboards:
 Interactive Power BI dashboard analyzing Adventure Works sales, products and customers, developed using advanced DAX and Power Query techniques.
 Full documentation and source code are available in the [project repository](https://github.com/Car-Toso/Adventure-Works-Sales-Dashboard).
 
+> #### 📊 Project Highlights
+> * **🎯Business Goal:** To provide Adventure Works' management with an interactive dashboard to monitor KPIs like sales, profit, and returns, enabling data-driven decisions across products and regions.
+> * **📈Key Metrics:** Developed DAX measures for Total Sales ($24.9M), Profit ($10M), and a low Return Rate (2.17%). Implemented time-intelligence functions for period-over-period performance tracking.
+> * **📂Data Source:** Integrated and transformed multiple CSV files containing transaction, customer, and product data using Power Query.
+> * **🛠️ Tech Stack:** **Power BI** (Data Modeling & UI/UX Design), **Power Query** (ETL), **DAX** (Advanced Measures).
+> * **💡 Main Result:** The dashboard successfully identified "Tires and Tubes" as a key sales driver and North America/Australia as top markets, leading to recommendations for targeted marketing and customer retention strategies.
+
 <p align="center" style="background-color: transparent; margin: 0; padding: 0;">
   <img src="Assets/DashboardGif.gif"
        alt="Dashboard Animation"
@@ -353,6 +360,13 @@ Key findings:
 
 For more details about this project, please visit the [project repository](https://github.com/Car-Toso/Bellabeat-Customer-Behavior-Analysis.git).
 
+> #### 📊 Project Highlights
+> * **🎯Business Goal:** To analyze smart device data for Bellabeat to uncover trends in user activity and sleep, guiding marketing strategy and improving product engagement.
+> * **📈Key Metrics:** Analyzed daily steps, sleep duration, and sedentary vs. active minutes. Segmented users by activity level and device usage frequency to identify behavioral patterns.
+> * **📂Data Source:** Utilized a public Kaggle dataset of 30 Fitbit users, containing daily activity, sleep, and weight logs.
+> * **🛠️ Tech Stack:** **BigQuery** (SQL for Data Cleaning & Analysis), **Tableau** (Dashboarding & Visualization).
+> * **💡 Main Result:** Revealed that while 93% of users were highly engaged with their device, 32% of their activity was sedentary and sleep was below recommended levels. This led to recommendations for personalized in-app challenges and sleep hygiene reminders.
+
 <p align="center">
   <img src="Assets/BellabeatDashboardGif.gif" width="800" alt="Bellabeat Dashboard">
 </p>
@@ -421,7 +435,7 @@ This highlights that while some users are highly active, *most are below the rec
 ![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
 
-A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
+This dashboard, designed for the electronics retailer 'Electromás', provides a comprehensive overview of sales performance. It tracks key metrics like revenue, profit, and units sold, allowing for analysis by product category and time period. The visualizations highlight top-performing products and sales trends, enabling data-driven decisions to optimize inventory and marketing strategies.
 <p align="center">
 <img src="Assets/EM1.png" width="400" alt="imagen 1">
 <img src="Assets/EM2.png" width="400" alt="imagen 2">
@@ -436,7 +450,7 @@ A summary of this project. Full details and the code will be available in the [p
 ![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
 
-A summary of this project. Full details and the code will be available in the [project repository](link-al-repo) soon.
+This project is a practical exercise from a Maven Analytics course focused on Store-Level Sales and Margin Performance. The dashboard visualizes and compares key performance indicators across different store locations, helping to identify top and bottom-performing stores based on sales and profitability margins.
 <p align="center">
 <img src="Assets/MM1.png" width="400" alt="imagen 1">
 </p>
