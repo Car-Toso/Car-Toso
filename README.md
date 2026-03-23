@@ -66,10 +66,8 @@ Data analysis and visualization project of Olist E-commerce, featuring an intera
 <img src="Assets/OL1.png" width="800" alt="img 9">
 <img src="Assets/OLGif1.gif" width="800" alt="gif 1">
 <img src="Assets/OLGif2.gif" width="800" alt="gif 2">
-<img src="Assets/OL4.png" width="800" alt="img 4">
-<img src="Assets/OL7.png" width="800" alt="img 7">
-<img src="Assets/OL8.png" width="800" alt="img 8">
-<img src="Assets/OL9.png" width="800" alt="img 9">
+<img src="Assets/OLGif3.gif" width="800" alt="gif 3">
+<img src="Assets/OLGif4.gif" width="800" alt="gif 4">
 </p>
 
 #### **Index E-Commerce Analytics Platform**
