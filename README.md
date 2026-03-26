@@ -37,8 +37,6 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 2. [End-to-End-Database-Engineering (SQL + PowerBI)](#project-n2-end-to-end-engineering-project-manager-db)
 3. [Sales Performance Analytics Dashboard (Power BI)](#project-n3-sales-performance-analytics-dashboard)
 4. [Customer Behavior and Engagement Analytics (Big Query + Tableau)](#project-n4-customer-behavior-and-engagement-analytics)
-5. [Electronics Retail Sales Analytics Dashboard (Power BI)](#project-n5-electronics-retail-sales-analytics-dashboard)
-6. [Store-Level Sales and Margin Performance Analytics (Power BI)](#project-n6-store-level-sales-and-margin-performance-analytics)
 
 ***
 ***
@@ -428,28 +426,3 @@ This highlights that while some users are highly active, *most are below the rec
 
 ***
 ***
-
-### **Project N°5: Electronics Retail Sales Analytics Dashboard**
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=flat&logo=figma&logoColor=white)
-
-This dashboard, designed for the electronics retailer 'Electromás', provides a comprehensive overview of sales performance. It tracks key metrics like revenue, profit, and units sold, allowing for analysis by product category and time period. The visualizations highlight top-performing products and sales trends, enabling data-driven decisions to optimize inventory and marketing strategies.
-<p align="center">
-<img src="Assets/EM1.png" width="400" alt="imagen 1">
-<img src="Assets/EM2.png" width="400" alt="imagen 2">
-<img src="Assets/EM3.png" width="400" alt="imagen 3">
-</p>
-
-***
-***
-
-### **Project N°6: Store-Level Sales and Margin Performance Analytics**
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=flat&logo=power-bi&logoColor=black)
-![Power Query](https://img.shields.io/badge/POWER_QUERY-F5E407?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F5E45F?style=flat&logo=powerbi&logoColor=black)
-
-This project is a practical exercise from a Maven Analytics course focused on Store-Level Sales and Margin Performance. The dashboard visualizes and compares key performance indicators across different store locations, helping to identify top and bottom-performing stores based on sales and profitability margins.
-<p align="center">
-<img src="Assets/MM1.png" width="400" alt="imagen 1">
-</p>
-
