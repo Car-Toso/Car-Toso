@@ -22,7 +22,7 @@ kramdown:
 
 # --- Opciones de layout ---
 show_downloads: false   # Oculta el botón “Download” en el header
-google_analytics: "G-DRJZXJ1DSL"    # Tu código GA si querés medir tráfico
+google_analytics: ""    # Tu código GA si querés medir tráfico
 theme_color: "#151515"  # Color base de fondo del sitio (oscuro)
 
 # --- Opciones de build ---
