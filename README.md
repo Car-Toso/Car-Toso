@@ -26,17 +26,52 @@
 
 ## **About me**🧠
 
-Data & Business Intelligence Analyst specialized in SQL, Power BI, and KPI-driven reporting. I design and maintain end-to-end BI solutions focused on transforming complex datasets into actionable insights for decision-making.
+I specialize in turning messy operational data into clear business decisions.
+My background combines Data Analytics with Mechanical Engineering, giving me a rare mix of technical precision, systems thinking, and real-world business understanding.
 
-I am a Data Analyst with 10+ years of experience in organizing technical processes and industrial systems. My background in Mechanical Engineering and FEA simulations allows me to apply high-level analytical precision to data architecture, ensuring accuracy and scalability in every dashboard and model I build.
+After 10+ years solving industrial problems, I transitioned those same skills into SQL, Power BI, data modeling, and KPI strategy.
+Today I build dashboards and analytics solutions that are not only visually clean, but operationally useful.
 
 You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and my [LinkedIn here](https://www.linkedin.com/in/carlos-ruben-tosoratto-90a428111/).
 
 ## **Projects Showcase**🚀
 1. [End-to-End E-Commerce Analytics Platform (SQL + Power BI)](#project-n1-end-to-end-e-commerce-analytics-platform)
+
+<p align="center">
+<img src="Assets/OL1.png" width="250" alt="img 9">
+<img src="Assets/OLGif1.gif" width="250" alt="gif 1">
+<img src="Assets/OLGif2.gif" width="250" alt="gif 2">
+<img src="Assets/OLGif3.gif" width="250" alt="gif 3">
+<img src="Assets/OLGif4.gif" width="250" alt="gif 4">
+</p>
+
 2. [End-to-End-Database-Engineering (SQL + PowerBI)](#project-n2-end-to-end-engineering-project-manager-db)
+
+<p align="center">
+<img src="Assets/ERD-OFFICE1.png" width="250" alt="ERD">
+<img src="Assets/Overview.png" width="250" alt="Overview">
+<img src="Assets/Clients1.png" width="250" alt="Clients1">
+<img src="Assets/Staff.png" width="250" alt="Staff">
+<img src="Assets/Staff1.png" width="250" alt="Staff1">
+</p>
+
 3. [Sales Performance Analytics Dashboard (Power BI)](#project-n3-sales-performance-analytics-dashboard)
+
+<p align="center">
+<img src="Assets/DashboardGif.gif" width="250" alt="imagen 1">
+<img src="Assets/GeneralDashboard.png" width="250" alt="imagen 1">
+<img src="Assets/SalesMap.png" width="250" alt="imagen 2">
+<img src="Assets/ProductsPage.png" width="250" alt="imagen 3">
+<img src="Assets/CustomersPage.png" width="250" alt="imagen 4">
+</p>
+
 4. [Customer Behavior and Engagement Analytics (Big Query + Tableau)](#project-n4-customer-behavior-and-engagement-analytics)
+
+<p align="center">
+  <img src="Assets/BellabeatDashboardGif.gif" style="height:150px; width:auto; object-fit:cover;" alt="Bellabeat Dashboard">
+  <img src="Assets/Captura1.png" style="height:150px; width:auto; object-fit:cover;" alt="Bellabeat Dashboard">
+  <img src="Assets/Captura2.png" style="height:150px; width:auto; object-fit:cover;" alt="Bellabeat Dashboard">
+</p>
 
 ***
 ***
@@ -234,7 +269,7 @@ The analytical layer consists of three strategic dashboards:
 * Implement user access control and advanced reporting layers.
 
 <p align="center">
-  <img src="Assets/ERD-OFFICE1.png" width="800" alt="ERD">
+<img src="Assets/ERD-OFFICE1.png" width="800" alt="ERD">
 <img src="Assets/Overview.png" width="400" alt="Overview">
 <img src="Assets/Clients1.png" width="400" alt="Clients1">
 <img src="Assets/Staff.png" width="400" alt="Staff">
