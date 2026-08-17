@@ -38,6 +38,7 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 1. [End-to-End E-Commerce Analytics Platform (SQL + Power BI)](#project-n1-end-to-end-e-commerce-analytics-platform)
 
 <p align="center">
+
 <img src="Assets/OL1.png" width="250" alt="img 9">
 <img src="Assets/OLGif1.gif" width="250" alt="gif 1">
 <img src="Assets/OLGif2.gif" width="250" alt="gif 2">
