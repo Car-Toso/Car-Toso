@@ -38,39 +38,39 @@ You can view my [CV here](https://github.com/Car-Toso/Car-Toso/tree/main/CV) and
 1. [End-to-End E-Commerce Analytics Platform (SQL + Power BI)](#project-n1-end-to-end-e-commerce-analytics-platform)
 
 <p align="center">
-<img src="Assets/OL1.png" width="250" alt="img 9">
-<img src="Assets/OLGif1.gif" width="250" alt="gif 1">
-<img src="Assets/OLGif2.gif" width="250" alt="gif 2">
-<img src="Assets/OLGif3.gif" width="250" alt="gif 3">
-<img src="Assets/OLGif4.gif" width="250" alt="gif 4">
+<img src="Assets/OL1.png" width="200" alt="img 9">
+<img src="Assets/OLGif1.gif" width="200" alt="gif 1">
+<img src="Assets/OLGif2.gif" width="200" alt="gif 2">
+<img src="Assets/OLGif3.gif" width="200" alt="gif 3">
+<img src="Assets/OLGif4.gif" width="200" alt="gif 4">
 </p>
 
 2. [End-to-End-Database-Engineering (SQL + PowerBI)](#project-n2-end-to-end-engineering-project-manager-db)
 
 <p align="center">
-<img src="Assets/ERD-OFFICE1.png" width="250" alt="ERD">
-<img src="Assets/Overview.png" width="250" alt="Overview">
-<img src="Assets/Clients1.png" width="250" alt="Clients1">
-<img src="Assets/Staff.png" width="250" alt="Staff">
-<img src="Assets/Staff1.png" width="250" alt="Staff1">
+<img src="Assets/ERD-OFFICE1.png" width="200" alt="ERD">
+<img src="Assets/Overview.png" width="200" alt="Overview">
+<img src="Assets/Clients1.png" width="200" alt="Clients1">
+<img src="Assets/Staff.png" width="200" alt="Staff">
+<img src="Assets/Staff1.png" width="200" alt="Staff1">
 </p>
 
 3. [Sales Performance Analytics Dashboard (Power BI)](#project-n3-sales-performance-analytics-dashboard)
 
 <p align="center">
-<img src="Assets/DashboardGif.gif" width="250" alt="imagen 1">
-<img src="Assets/GeneralDashboard.png" width="250" alt="imagen 1">
-<img src="Assets/SalesMap.png" width="250" alt="imagen 2">
-<img src="Assets/ProductsPage.png" width="250" alt="imagen 3">
-<img src="Assets/CustomersPage.png" width="250" alt="imagen 4">
+<img src="Assets/DashboardGif.gif" width="200" alt="imagen 1">
+<img src="Assets/GeneralDashboard.png" width="200" alt="imagen 1">
+<img src="Assets/SalesMap.png" width="200" alt="imagen 2">
+<img src="Assets/ProductsPage.png" width="200" alt="imagen 3">
+<img src="Assets/CustomersPage.png" width="200" alt="imagen 4">
 </p>
 
 4. [Customer Behavior and Engagement Analytics (Big Query + Tableau)](#project-n4-customer-behavior-and-engagement-analytics)
 
 <p align="center">
-  <img src="Assets/BellabeatDashboardGif.gif" style="height:150px; width:auto; object-fit:cover;" alt="Bellabeat Dashboard">
-  <img src="Assets/Captura1.png" style="height:150px; width:auto; object-fit:cover;" alt="Bellabeat Dashboard">
-  <img src="Assets/Captura2.png" style="height:150px; width:auto; object-fit:cover;" alt="Bellabeat Dashboard">
+  <img src="Assets/BellabeatDashboardGif.gif" style="height:120px; width:auto; object-fit:cover;" alt="Bellabeat Dashboard">
+  <img src="Assets/Captura1.png" style="height:120px; width:auto; object-fit:cover;" alt="Bellabeat Dashboard">
+  <img src="Assets/Captura2.png" style="height:120px; width:auto; object-fit:cover;" alt="Bellabeat Dashboard">
 </p>
 
 ***
@@ -205,6 +205,14 @@ If you want to see the final project presentation, click this link [Final Projec
 > * **🛠️ Tech Stack:** SQLite (Schema Design & Triggers), DB Browser, Power BI (Relational Modeling & Visualization).
 > * **💡 Main Result:** Developed a scalable "Database-to-Dashboard" pipeline that enables real-time monitoring of project acceptance rates, staff workload, and equipment ROI.
 
+<p align="center">
+<img src="Assets/ERD-OFFICE1.png" width="800" alt="ERD">
+<img src="Assets/Overview.png" width="800" alt="Overview">
+<img src="Assets/Clients1.png" width="800" alt="Clients1">
+<img src="Assets/Staff.png" width="800" alt="Staff">
+<img src="Assets/Staff1.png" width="800" alt="Staff1">
+</p>
+
 #### Index Engineering Project Manager DB (SQL + Power BI)
 
 1. [**Overview📘**](#1-overview-1)
@@ -267,14 +275,6 @@ The analytical layer consists of three strategic dashboards:
 * Include equipment maintenance and cost tracking.
 
 * Implement user access control and advanced reporting layers.
-
-<p align="center">
-<img src="Assets/ERD-OFFICE1.png" width="400" alt="ERD">
-<img src="Assets/Overview.png" width="400" alt="Overview">
-<img src="Assets/Clients1.png" width="400" alt="Clients1">
-<img src="Assets/Staff.png" width="400" alt="Staff">
-<img src="Assets/Staff1.png" width="400" alt="Staff1">
-</p>
 
 ***
 ***
